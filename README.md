@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll Incorporated
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
@@ -60,4 +61,3 @@ Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for 
 ## Copyright and license
 
 Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
-
