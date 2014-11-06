@@ -1,16 +1,15 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Tennis og badmintonfélag Reykjavíkur"
+  #subtitle:     "Add subtitle here"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
+  company:      Tennis og badmintonfélag Reykjavíkur
   url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
+  facebook:     tennisogbadminton
+  instagram:    ivaroddsson
   about_link:   https://sendtoinc.com/about/
   
   # Product Information
@@ -54,7 +53,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter:    true
 
 relative_permalinks: true
 
@@ -62,7 +61,7 @@ permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
 
-markdown:      maruku
+markdown:      Kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
