@@ -122,3 +122,6 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+
+sass:
+    sass_dir: _sass
