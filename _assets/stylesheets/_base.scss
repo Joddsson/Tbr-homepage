@@ -323,3 +323,8 @@ a {
     margin-right: 500px;
     margin-left: 500px;
 }
+
+.indented {
+    padding-top: 10px;
+    p{ text-indent: 30px; } 
+}
