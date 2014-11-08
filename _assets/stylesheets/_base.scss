@@ -287,3 +287,32 @@ a {
         background:none;
     }
 }
+
+.board_text {
+    font-family: 'Lobster', cursive;
+    margin-top: 10px;
+}
+
+#row1 {
+    display: inline-block;
+    margin-top: 60px;
+    padding-right: 100px;
+
+    p { font-weight: bold; color: gray; }
+}
+
+#row2 {
+    display: inline-block;
+    margin-top: 60px;
+    padding-left: 100px;
+
+    p { font-weight: bold; color: gray; }
+}
+
+#row3 {
+    margin-top: 60px;
+}
+
+#container {
+    text-align: center;
+}

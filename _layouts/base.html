@@ -33,22 +33,47 @@
 </head>
 <body>
 <header>
-    
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">WebSiteName</a>
-        </div>
-        <div>
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Page 1</a></li>
-            <li><a href="#">Page 2</a></li>
-            <li><a href="#">Page 3</a></li>
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">TBR</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/">Fréttir</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Félagið <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/board">Stjórn</a></li>
+            <li><a href="#">Starfsfólk</a></li>
+            <li><a href="#">Keppendur</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Hópar</a></li>
+            <li><a href="#">Trimm</a></li>
+            <li><a href="#">Unglingaráð</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Sumarskóli</a></li>
+            <li><a href="#">Vímuvarnarstefna</a></li>
+            <li><a href="#">Eineltisáætlun</a></li>
+            <li><a href="#">Íþróttanámsskrá</a></li>
+
+
           </ul>
-        </div>
-      </div>
-    </nav>
+        </li>
+        <li><a href="#">Link</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 </header>
 {{ content }}
 
