@@ -58,8 +58,8 @@
             <li><a href="/staff">Starfsfólk</a></li>
             <li><a href="#">Keppendur</a></li>
             <li class="divider"></li>
-            <li><a href="#">Hópar</a></li>
-            <li><a href="#">Trimm</a></li>
+            <li><a href="/groups">Hópar</a></li>
+            <li><a href="/trimm">Trimm</a></li>
             <li><a href="#">Unglingaráð</a></li>
             <li class="divider"></li>
             <li><a href="#">Sumarskóli</a></li>
@@ -74,6 +74,13 @@
   </div><!-- /.container-fluid -->
 </nav>
 </header>
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/images/{{ page.cover_image }}" class="image">
+    </div>
+</div>
+{% endif %}
 {{ content }}
 
 <footer class="site-footer">
