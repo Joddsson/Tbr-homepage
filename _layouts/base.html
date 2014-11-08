@@ -33,6 +33,7 @@
 </head>
 <body>
 <header>
+    
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -43,30 +44,29 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">TBR</a>
+      <a class="navbar-brand" href="/">TBR</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="/">Fréttir</a></li>
+        <li><a href="/">Fréttir</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Félagið <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="/board">Stjórn</a></li>
-            <li><a href="#">Starfsfólk</a></li>
-            <li><a href="#">Keppendur</a></li>
+            <li><a href="/staff">Starfsfólk</a></li>
+            <li><a href="/players">Keppendur</a></li>
+            <li><a href="/about">Um félagið</a></li>
             <li class="divider"></li>
-            <li><a href="#">Hópar</a></li>
-            <li><a href="#">Trimm</a></li>
-            <li><a href="#">Unglingaráð</a></li>
+            <li><a href="/groups">Hópar</a></li>
+            <li><a href="/trimm">Trimm</a></li>
+            <li><a href="/youth_board">Unglingaráð</a></li>
             <li class="divider"></li>
-            <li><a href="#">Sumarskóli</a></li>
-            <li><a href="#">Vímuvarnarstefna</a></li>
+            <li><a href="/summerschool">Sumarskóli</a></li>
+            <li><a href="/anti_doping_policy">Vímuvarnarstefna</a></li>
             <li><a href="#">Eineltisáætlun</a></li>
             <li><a href="#">Íþróttanámsskrá</a></li>
-
-
           </ul>
         </li>
         <li><a href="#">Link</a></li>
@@ -75,6 +75,13 @@
   </div><!-- /.container-fluid -->
 </nav>
 </header>
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/images/{{ page.cover_image }}" class="image">
+    </div>
+</div>
+{% endif %}
 {{ content }}
 
 <footer class="site-footer">
