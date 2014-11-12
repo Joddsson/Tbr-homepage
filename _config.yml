@@ -7,14 +7,14 @@ inc:
   
   # Company information
   company:      Tennis og badmintonfélag Reykjavíkur
-  url:          http://sendtoinc.com/
+  url:          http://tbr.is/
   facebook:     tennisogbadminton
   instagram:    ivaroddsson
-  about_link:   https://sendtoinc.com/about/
-  
+  about_link:   https://tbr.is/about
+
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: http://tbr.is/
+  tagline:      "Tennis og badmintonfélag Reykjavíkur"
   
   # Comments
   disqus:

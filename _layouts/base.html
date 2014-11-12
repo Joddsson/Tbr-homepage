@@ -29,7 +29,8 @@
     <meta property="og:description" content="{{ page.excerpt }}"/>
     <meta name="description" content="{{ page.excerpt }}"/>
     {% endif %}
-    <meta property="og:site_name" content="{{ site.inc.title }}">     
+    <meta property="og:site_name" content="{{ site.inc.title }}">   
+
 </head>
 <body>
 <header>
@@ -66,23 +67,12 @@
             <li><a href="/summerschool">Sumarskóli</a></li>
             <li><a href="/anti_doping_policy">Vímuvarnarstefna</a></li>
             <li><a href="/anti_bullying_policy">Eineltisáætlun</a></li>
-            <li><a href="#">Íþróttanámsskrá</a></li>
+            <li><a href="/downloads/itrottanamskra_tbr.doc"><i class="fa fa-download"></i> Íþróttanámsskrá</a></li>
           </ul>
         </li>
         <li><a href="/available">Lausir tímar</a></li>
         <li><a href="/price_list">Verðskrá</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Börn og unglingar <span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="/board">Æfingatafla</a></li>
-            <li><a href="/staff">Skólabadminton</a></li>
-            <li><a href="/players">6-8 ára</a></li>
-            <li><a href="/about">9-12 ára</a></li>
-            <li><a href="/groups">13-16 ára</a></li>
-            <li><a href="/trimm">Framhaldskólatími</a></li>
-            <li><a href="/youth_board">Keppnishópur unglinga</a></li>
-          </ul>
-        </li>
+        <li><a href="/youth_program">Börn og unglingar</a></li>
         <li><a href="/yonex">Yonex</a></li>
         <li><a href="/links">Tenglar</a></li>
         <li><a href="/contact">Hafa samband</a></li>
@@ -104,14 +94,6 @@
 <footer class="site-footer">
     <div class="container">
         &copy; {{ site.time | date: "%Y" }} 
-        
-        <nav>
-            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
-            <a href="/">Blog</a> &middot;
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a> &middot; {% endif %}
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
-        </nav>
-        
         <nav class="social">
             {% if site.inc.facebook %}
             <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="fa fa-facebook black"></i></a>

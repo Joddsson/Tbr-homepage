@@ -1,11 +1,13 @@
 $(document).ready(function(){
            $('.row img').on('click',function(){
                 var src = $(this).attr('src');
-                var img = '<img src="' + src + '" class="img-responsive"/>';
+                var img = '<img src="' + src + '" width="570" height="570"/>';
+                var modal_title = $(this).attr('id');
                 $('#myModal').modal({
-                	//backdrop: false
+                
                 });
                 $('#myModal').on('shown.bs.modal', function(){
+                    $('#myModal .modal-title').html(modal_title);
                     $('#myModal .modal-body').html(img);
                 });
                 $('#myModal').on('hidden.bs.modal', function(){

@@ -359,3 +359,11 @@ a {
         cursor: pointer;
     }
 }
+
+.modal-dialog {
+    z-index: 2000;
+}
+
+#page_without_coverphoto {
+    margin-top: 80px;
+}
