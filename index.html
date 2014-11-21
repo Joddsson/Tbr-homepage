@@ -15,7 +15,7 @@ layout: base
             <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="fa fa-facebook-square"></i></a>
             {% endif %}
             {% if site.inc.instagram %}
-            <a href="http://instagram.com/{{ site.inc.instagram }}" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a>7
+            <a href="http://instagram.com/{{ site.inc.instagram }}" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
             {% endif %}
         </div>
     </section>
@@ -31,8 +31,8 @@ layout: base
             <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
             <p>{{ post.excerpt }}</p>
             <div class="meta">
-                Written By <address>{{ post.author.name }}</address> &mdash;
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+                Höfundur: <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%d %B, %Y" }}</time>
             </div>
         </div>
         <hr>
@@ -42,13 +42,13 @@ layout: base
     <section class="pagination" style="text-align:center">
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
+        <a href="/" class="btn btn-outline">‹ Nýrra</a>
         {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Nýrra</a>
         {% endif %}
       {% endif %}
       {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Eldra ›</a>
       {% endif %}
     </section>
 </article>

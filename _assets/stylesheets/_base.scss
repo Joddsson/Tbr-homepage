@@ -312,6 +312,7 @@ a {
 
 #row3 {
     margin-top: 60px;
+    
 }
 
 #container {
@@ -366,4 +367,20 @@ a {
 
 #page_without_coverphoto {
     margin-top: 80px;
+}
+
+#dividerLine {
+    width:100%; 
+    text-align:center;
+    border-bottom: 1px solid #000; 
+    line-height:0.1em;
+    margin:10px 0 20px;
+    padding-top: 30px;
+    span{
+        background:#fff; padding:0 10px;     
+    }
+}
+
+.col-md-4{
+    margin-top:15px;
 }
