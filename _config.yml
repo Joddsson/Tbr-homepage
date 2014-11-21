@@ -68,8 +68,8 @@ textile_ext:   textile
 excerpt_separator: "<!-- more -->"
 
 safe:        false
-host:        www.tbr.is
-port:        21
+host:        0.0.0.0
+port:        4000
 baseurl:     /
 lsi:         false
 
