@@ -31,9 +31,7 @@ inc:
   
  # Analytics     
   analytics:
-    provider: google
-    google: 
-      tracking_id: 'UA-57003667-1' # Add tracking code in _includes/_google-analytics.html
+    google: false # Add tracking code in _includes/_google-analytics.html
       
       
   # Google Fonts
