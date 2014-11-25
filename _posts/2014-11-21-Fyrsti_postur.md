@@ -3,7 +3,7 @@ layout: post
 
 title: Velkomin
 subtitle: "Fylgist með hvað er að gerast í TBR."
-cover_image: atli.jpg
+cover_image: em-2014-145.jpg
 
 excerpt: "Ný heimasíða Tennis og badmintonfélags Reykjavíkur."
 

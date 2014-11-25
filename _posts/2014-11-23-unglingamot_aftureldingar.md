@@ -3,7 +3,7 @@ layout: post
 
 title: Unglingamót Aftureldingar fór fram um helgina.
 subtitle: "Einn keppandi frá TBR vann þrefalt."
-cover_image: atli.jpg
+cover_image: em-2014-145.jpg
 
 excerpt: "Einn keppandi frá TBR vann þrefalt."
 
