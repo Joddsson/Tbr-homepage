@@ -9,7 +9,7 @@ excerpt: "Ný heimasíða Tennis og badmintonfélags Reykjavíkur."
 
 author:
   name: Ívar Oddsson
-  twitter: joddsson
+  twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---

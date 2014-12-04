@@ -9,7 +9,7 @@ excerpt: "Einn keppandi frá TBR vann þrefalt."
 
 author:
   name: Ívar Oddsson
-  twitter: joddsson
+  twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
