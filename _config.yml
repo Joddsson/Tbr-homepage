@@ -62,7 +62,7 @@ paginate_path: 'page:num'
 paginate: 10
 
 markdown:      Kramdown
-markdown_ext:  markdown,mkd,mkdn,md
+markdown_ext:  markdown,mkd,mkdn,md,tables
 textile_ext:   textile
 
 excerpt_separator: "<!-- more -->"
