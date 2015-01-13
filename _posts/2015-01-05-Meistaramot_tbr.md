@@ -5,7 +5,7 @@ title: Meistaramót TBR fór fram um helgina.
 subtitle: Mótið var hið glæsilegasta.
 cover_image: em-2014-145.jpg
 
-excerpt: "TBR-ingar stóðu sig með príði."
+excerpt: "TBR-ingar stóðu sig með prýði."
 
 author:
   name: Ívar Oddsson
