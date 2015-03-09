@@ -5,7 +5,7 @@ title: Íslandsmeistaramót unglinga í TBR um helgina.
 subtitle: Mótið var hið glæsilegasta.
 cover_image: em-2014-145.jpg
 
-excerpt: "Krýndir voru nýjir Íslandsmeistarar unglinga."
+excerpt: "Krýndir voru nýir Íslandsmeistarar unglinga."
 
 author:
   name: Ívar Oddsson
