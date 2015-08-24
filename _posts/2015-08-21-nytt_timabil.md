@@ -15,7 +15,7 @@ author:
 ---
 Þann 1. september næstkomandi fer nýtt badminton tímabil af stað, badmintonspilurum til mikillar gleði. Nýtt keppnistímabil
 hefst hjá keppnisliði TBR sem hefts á Einliðaleiksmóti TBR þann 4. september. Einnig hefst nýtt tímabil hjá þeim sem ætla að
-vera með fastan badmintonvöll í vetur. Opið er fyrir skráningar og hægt er að skoða lausa tíma [hér.](www.tbr.is/available)
+vera með fastan badmintonvöll í vetur. Opið er fyrir skráningar og hægt er að skoða lausa tíma [hér.](http://tbr.is/available/)
 
 Trimmtímarnir verða á sínum stað á sunnudögum klukkan 11. Þorkell Ingi Eriksson, leikmaður í meistaraflokk í TBR, mun sjá um trimmið í vetur en
 um er að ræða skemmtilegt badmintonspil í skemmtilegum félagsskap. Nánari upplýsingar um trimmið er að finna [hér.](http://tbr.is/trimm/)
