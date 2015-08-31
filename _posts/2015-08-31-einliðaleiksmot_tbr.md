@@ -1,11 +1,11 @@
 ---
 layout: post
 
-title: Unglingamót Aftureldingar fór fram um helgina.
-subtitle: "Einn keppandi frá TBR vann þrefalt."
+title: Einliðaleiksmót TBR.
+subtitle: Fyrsta mót tímabilsins fer fram í TBR á föstudaginn næsta.
 cover_image: em-2014-145.jpg
 
-excerpt: "Einn keppandi frá TBR vann þrefalt."
+excerpt: TBR-ingar koma vel undirbúnir undan sumri.
 
 author:
   name: Ívar Oddsson
