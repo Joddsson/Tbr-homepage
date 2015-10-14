@@ -13,7 +13,7 @@ author:
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
-Haustmót TBR fór fram um helgina í húsum TBR síðastaliðna helgi. Mótið er sérstakt af því leyti að spilað var með forgjöf og spilað var í opnum flokki karla og kvenna. Spilað var á sunnudaginn og vel tókst til að keyra mótið áfram. TBR þakkar öllum keppendum og aðstandendum mótsins kærlega fyrir skemmtilega helgi.
+Haustmót TBR fór fram um helgina í húsum TBR. Mótið er sérstakt af því leyti að spilað var með forgjöf og því var spilað í opnum flokki karla og kvenna. Mótið fór fram á sunnudaginn og vel tókst til að keyra mótið áfram. TBR þakkar öllum keppendum og aðstandendum mótsins kærlega fyrir skemmtilega helgi.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:
 
