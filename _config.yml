@@ -43,8 +43,8 @@ inc:
 url:         http://incorporated.sendtoinc.com
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir: ./_plugins
+layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 timezone:    nil
@@ -55,7 +55,6 @@ show_drafts: nil
 limit_posts: 0
 highlighter:    true
 
-relative_permalinks: true
 
 permalink:     pretty
 paginate_path: 'page:num'
@@ -92,7 +91,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_wrap: div
@@ -119,9 +118,10 @@ assets:
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
-  cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
 
 sass:
     sass_dir: _sass
+
+plugins: [jekyll-paginate]
