@@ -1,6 +1,6 @@
 ---
 title: Tbr Homepage
-timezone: Iceland
+timezone: Pacific/Pago_Pago
 collections:
   posts:
     title: Posts
@@ -36,7 +36,6 @@ plugins_dir: "./_plugins"
 layouts_dir: "./_layouts"
 include:
 - ".htaccess"
-exclude: []
 future: false
 show_drafts: nil
 limit_posts: 0
@@ -59,10 +58,6 @@ maruku:
   png_engine: blahtex
   png_dir: images/latex
   png_url: "/images/latex"
-rdiscount:
-  extensions: []
-redcarpet:
-  extensions: []
 kramdown:
   auto_ids: true
   footnote_nr: 1
