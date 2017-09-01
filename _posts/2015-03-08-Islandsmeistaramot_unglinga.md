@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Íslandsmeistaramót unglinga í TBR um helgina.
+date: 2015-03-08 00:00:00 +00:00
+layout: post
 subtitle: Mótið var hið glæsilegasta.
 cover_image: em-2014-145.jpg
-
-excerpt: "Krýndir voru nýir Íslandsmeistarar unglinga."
-
+excerpt: Krýndir voru nýir Íslandsmeistarar unglinga.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Íslandsmeistaramót unglinga fór fram um helgina í TBR húsinu. Mikið stemming var meðal leikmanna enda hápunktur tímabilsins hjá mörgum ungum og efnilegum badmintonspilurum. Spilað var í flokkum undir 11 ára til undir 19 ára og fengu u11 leikmennirnir öll þátttökuverðlaun. Einnig fengu allir leikmenn TBR merkta Yonex boli og vöktu þeir mikla lukku meðal keppenda.  
 Fjölmargir sjálfboðaliðar hjálpuðu til við að gera mótið sem glæsilegast og þótti mótið heppnast mjög vel. Mótstjórn mótsins valdi Tennis og Badmintonfélag Siglufjarðar(TBS) prúðasta lið mótsins. Tennis og badmintonfélag Reykjavíkur þakkar öllum þátttakendum og sjálfboðaliðum kærlega fyrir frábæra helgi.
 

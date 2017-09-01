@@ -1,17 +1,16 @@
 ---
-layout: post
-
 title: Íslandsmeistaramót unglinga.
+date: 2017-03-12 00:00:00 +00:00
+layout: post
 cover_image: em-2014-145.jpg
-
-excerpt: "Nýir Íslandsmeistarar krýndir um helgina."
-
+excerpt: Nýir Íslandsmeistarar krýndir um helgina.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Íslandsmeistaramót unglinga fór fram í TBR húsinu um síðastliðna helgi. Mótið var hið glæsilegasta þar sem yngri kynslóðin var í eldlínunni. Mótið gekk vel fyrir sig og voru eldir leikmenn TBR fengnir til þess að aðstoða við mótið þegar úrslitin voru spiluð á sunnudeginum. Tveir leikmenn náðu þeim frábæra árangri að sigra þrefalt á mótinu en það voru þau María Rún Ellertsdóttir úr ÍA og Davíð Bjarni Björnsson úr TBR og óskar TBR þeim, jafnt sem öllum sigurvegurum helgarinnar innilega til hamingju með titlana.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

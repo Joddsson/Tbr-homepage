@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Unglingamót Aftureldingar fór fram um helgina.
-subtitle: "Einn keppandi frá TBR vann þrefalt."
+date: 2014-11-23 00:00:00 +00:00
+layout: post
+subtitle: Einn keppandi frá TBR vann þrefalt.
 cover_image: em-2014-145.jpg
-
-excerpt: "Einn keppandi frá TBR vann þrefalt."
-
+excerpt: Einn keppandi frá TBR vann þrefalt.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Unglingamót Aftureldingar fór fram um helgina. Mótið var glæsilegt og TBR átti marga keppendur sem stóðu sig öll frábærlega. Spilað var í íþróttamiðstöðinni við Varmá og hófst á laugardagsmorguninn og lauk um miðjan dag í dag.  
 
 Einn keppenda TBR náði þeim frábæra árangri að vinna þrefalt í sínum aldursflokki en sú var Margrét Dís Stefánsdóttir sem spilar í U17. Við óskum henni innilega til hamingju með sigrana.

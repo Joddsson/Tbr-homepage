@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Reykjavíkurmót unglinga.
+date: 2016-09-20 00:00:00 +00:00
+layout: post
 subtitle: Yngri kynslóðin í aðalhlutverki um hegina.
 cover_image: em-2014-145.jpg
-
-excerpt: "Vetrartímabilið byrjar af krafti."
-
+excerpt: Vetrartímabilið byrjar af krafti.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Um síðastliðna helgi fór Reykjavíkurmót unglinga fram í TBR. Mótið, sem er árlegt, var spennandi og skemmtilegt og mikið var um gott badminton. Keppt var í unglingaflokkum frá U13-U19 og aðeins var spilað á laugardeginum. Mótið fór vel fram fyrir utan smávægileg mistök mótstjórnar við tímasetningar og því dróst mótið aðeins lengur fram á kvöld en til stóð. TBR þakkar öllum þeim sem komu að mótinu kærlega fyrir helgina.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

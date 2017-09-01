@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Íslandsmeistaramót 2015.
+date: 2015-04-13 00:00:00 +00:00
+layout: post
 subtitle: Nýir Íslandsmeistarar krýndir í TBR um helgina.
 cover_image: em-2014-145.jpg
-
-excerpt: "Frábæru Íslandsmeistaramóti lauk í gær."
-
+excerpt: Frábæru Íslandsmeistaramóti lauk í gær.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Meistaramót Íslands fór fram í TBR um helgina. Mótið er einn af hápunktum tímabilsins fyrir marga keppendur og er jafnframt síðasta fullorðinsmót tímabilsins. Mótið hófst á föstudagskvöldið og endaði á sunnudagskvöldið og mótið þótti mjög glæsilegt. RÚV sýndi beint frá úrslitunum á sunnudaginn og sjá má upptökur frá mótinu [hér](http://www.ruv.is/sarpurinn/ruv/meistaramot-islands-i-badminton/20150412).
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

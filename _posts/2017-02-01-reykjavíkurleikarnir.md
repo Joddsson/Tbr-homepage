@@ -1,17 +1,16 @@
 ---
-layout: post
-
 title: Reykjavík international games.
+date: 2017-02-01 00:00:00 +00:00
+layout: post
 cover_image: em-2014-145.jpg
-
-excerpt: "Reykjavíkurleikarnir."
-
+excerpt: Reykjavíkurleikarnir.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Reykjavíkurleikarnir fara um þessar mundir fram í Reykjavík í tíunda skiptið. Badminton er þar á meðal keppnisgreina og
 fara leikarnir fram í TBR húsinu. Um síðastliðna helgi fór fram Iceland International, sem er stærsta innlenda landsliðsverkefni
 sem okkar fremstu leikmenn taka þátt á. Mótið er einnig hluti af Reykjavíkurleikunum ásamt unglingamóti í badminton sem fer

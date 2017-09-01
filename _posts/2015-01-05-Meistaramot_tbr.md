@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Meistaramót TBR fór fram um helgina.
+date: 2015-01-05 00:00:00 +00:00
+layout: post
 subtitle: Mótið var hið glæsilegasta.
 cover_image: em-2014-145.jpg
-
-excerpt: "TBR-ingar stóðu sig með prýði."
-
+excerpt: TBR-ingar stóðu sig með prýði.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Meistaramót TBR fór fram um helgina. Mótið var fjölmennt en keppt var í meistara-, a og b flokki og var spilað á laugardegi og sunnudegi. Mótið þótti fara vel fram og margir spennandi leikir voru spilaðir um helgina. 
 
 Helgin var sérstaklega skemmtileg í ljósi þess að margir TBR-ingar sem búsettir eru erlendis og voru heima yfir hátíðarnar tóku þátt í mótinu. Þeirra á meðal voru Kári Gunnarsson og systkinin Magnús Ingi Helgason og Tinna Helgadóttir, en Kári og Tinna voru á dögunum valin badmintonspilarar ársins af Badmintonsambandi Íslands.

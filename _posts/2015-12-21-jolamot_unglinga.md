@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Jólamót unglina.
+date: 2015-12-21 00:00:00 +00:00
+layout: post
 subtitle: Síðasta unglingamót ársins.
 cover_image: em-2014-145.jpg
-
-excerpt: "Jólalegt í TBR."
-
+excerpt: Jólalegt í TBR.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Jólamót unglinga fór fram í TBR um síðastliðna helgi. Einungis var spilaður í einliðaleikur á mótinu, í aldursflokkum u13-u19. Mikil stemming skapaðist á mótinu sem er síðasta unglingamótið fyrir jól. Frábærir badmintonspilarar sýndu frábæra takta og þótti mótið hið skemmtilegasta. TBR þakkar unglingaráði TBR kærlega fyrir vel unnin störf, en mótið var í umsjá þeirra.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

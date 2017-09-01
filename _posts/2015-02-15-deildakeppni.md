@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Deildakeppni BSÍ.
+date: 2015-02-15 00:00:00 +00:00
+layout: post
 subtitle: Mikil stemming í TBR um helgina.
 cover_image: em-2014-145.jpg
-
-excerpt: "TBR Demantar Íslandsmeistarar félagsliða."
-
+excerpt: TBR Demantar Íslandsmeistarar félagsliða.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Deildakeppni Badmintonsambands Íslands fór fram um helgina. Um er að ræða liðakeppni þar sem Íslandsmeistarar í Meistaradeild ávinna sér þátttökurétt í Evrópumeistarakeppni félagsliða, sem haldin verður í sumar. Mikil stemming er í kringum mótið en keppt var í Meistara, A og B deild. Norðmenn áttu ĺið í Meistara og A deild þetta árið og þau léku undir nafninu SABK.											
 
 ## <i class="fa fa-trophy"></i> Úrslit helgarinnar:

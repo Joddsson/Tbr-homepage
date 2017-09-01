@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Reykjavíkurmót í TBR.
+date: 2015-03-15 00:00:00 +00:00
+layout: post
 subtitle: Færeyingar voru meðal keppenda á mótinu.
 cover_image: em-2014-145.jpg
-
-excerpt: "Veðrið setti strik í reikninginn."
-
+excerpt: Veðrið setti strik í reikninginn.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Meistaramót Reykjavíkur fór fram um helgina í húsum TBR. Ofsaveðrið sem reið yfir landið á laugardag setti strik í reikninginn og fresta þurfti mótinu um nokkrar klukkustundir á meðan á óveðrinu stóð. Mótið hófst seinnipartinn á laugardaginn og endaði seinni partinn á sunnudaginn. Færeyingar heimsóttu mótið, sem gerði það mjög skemmtilegt og fjölbreitt. Færeyingarnir stóðu sig með mikilli prýði og var virkilega gaman að fá þau í heimsókn.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

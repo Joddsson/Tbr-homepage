@@ -1,17 +1,16 @@
 ---
-layout: post
-
 title: Meistaramót TBR.
+date: 2017-01-08 00:00:00 +00:00
+layout: post
 cover_image: em-2014-145.jpg
-
-excerpt: "Badmintonárið fer vel af stað."
-
+excerpt: Badmintonárið fer vel af stað.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Badmintonárið 2017 byrjaði um helgina með hinu árlega Meistaramóti TBR. Mótið var hin besta skemmtun og ljóst er að badmintonárið 2017 kemur til með að vera frábært. Tveir leikmenn náðu þeim frábæra árangri að vinna þrefalt á mótinu þegar þau unnu einliða, tvíliða og tvenndaleik. Margrét Jóhannsdóttir vann í meistaraflokki og Víðir Þór Þrastarson í b flokki. TBR þakkar fyrir góðar stundir um helgina og hlakkar til að fylgjast með góðu badmintoni á árinu 2017.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

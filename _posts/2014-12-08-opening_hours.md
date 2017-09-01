@@ -1,10 +1,9 @@
 ---
-layout: post
-
 title: Opnunartími um jólin.
+date: 2014-12-08 00:00:00 +00:00
+layout: post
 cover_image: em-2014-145.jpg
-excerpt: "Hvað er að gerast í TBR yfir hátíðirnar?"
-
+excerpt: Hvað er að gerast í TBR yfir hátíðirnar?
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson

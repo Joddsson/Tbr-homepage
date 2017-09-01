@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Meistaramót TBR.
+date: 2016-01-06 00:00:00 +00:00
+layout: post
 subtitle: Eitt af stærra TBR mótum á árinu.
 cover_image: em-2014-145.jpg
-
-excerpt: "Fyrsta mót ársins."
-
+excerpt: Fyrsta mót ársins.
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Árið 2016 fór heldur betur af stað með látum hjá badmintonspilurum landsins. Meistaramót TBR fór fram um síðastliðna helgi og mættu keppendur reiðubúnir til leiks hófu þar með keppnisárið 2016. Mótið var gríðarlega skemmtilegt, sérstaklega þar sem sumir af þeim íslensku badmintonspilurum sem eiga heima erlendis mættu til leiks. Magnús Ingi Helgason, margfaldur íslandsmeistari í badminton, var meðal leikmanna, en hann er búsettur í Danmörku. Einnig var Daninn Jeppe Ludvigsen í leikmannahópnum en hann og Magnús báru sigur úr bítum í tvíliðaleik karla í meistaraflokki. TBR þakkar keppendum og áhorfendum kærlega fyrir helgina, með ósk um farsælt nýtt ár.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:

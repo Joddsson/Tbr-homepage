@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Tímabil 2015-2016.
+date: 2015-08-21 00:00:00 +00:00
+layout: post
 subtitle: Bókaðu tíma í badminton í vetur.
 cover_image: em-2014-145.jpg
-
 excerpt: Bókaðu tíma í badminton í vetur.
-
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Þann 1. september næstkomandi fer nýtt badminton tímabil af stað, badmintonspilurum til mikillar gleði. Nýtt keppnistímabil
 hefst hjá keppnisliði TBR sem hefts á Einliðaleiksmóti TBR þann 4. september. Einnig hefst nýtt tímabil hjá þeim sem ætla að
 vera með fastan badmintonvöll í vetur. Opið er fyrir skráningar og hægt er að skoða lausa tíma [hér.](http://tbr.is/available/)

@@ -1,18 +1,17 @@
 ---
-layout: post
-
 title: Vetrarmót TBR.
+date: 2015-10-26 00:00:00 +00:00
+layout: post
 subtitle: Skemmtilegt unglingamót.
 cover_image: em-2014-145.jpg
-
 excerpt: Frábær vetrarhelgi að baki.
-
 author:
   name: Ívar Oddsson
   twitter: ivaroddsson
   bio: Vefhönnuður.
   image: tbr_logo.jpg
 ---
+
 Haldið var upp á fyrsta vetrardag með hátíðlegu unglingamóti í TBR um helgina. Vetrarmót TBR er skemmtilegt unglingamót þar sem keppt er í flokkum u19 og niður í u13. Að venju var mikil gleði og hamingja meðal þátttakenda sem lögðu leið sína í TBR um helgina. Einn keppandi náði þeim frábæra árangri að vinna þrefalt í flokki u19. Það var hann Kristófer Darri Finnsson en hann sigraði einliðaleikinn, tvíliðaleik með Davíð Bjarna Björnssyni og tvenndaleiki með Margréti Nilsdóttur. Mótinu var stjórnað af unglingaráði TBR og gekk það að mestu áfallalaust fyrir sig. TBR þakkar þeim kærlega fyrir vel unnin störf.
 
 ## <i class="fa fa-trophy"></i> Sigurvegarar frá TBR í mótinu:
