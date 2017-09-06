@@ -1,6 +1,6 @@
 ---
 title: Tbr Homepage
-timezone: Pacific/Pago_Pago
+timezone: Atlantic/Reykjavik
 collections:
   posts:
     title: Posts
@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 inc:
-  title: Tennis og badmintonfélag Reykjavíkur
+  title: Tennis og badmintonfélag Reykjavíkur.
   cover_image: atli_snjolaug_logo.jpg
   logo: logo.png
   company: Tennis og badmintonfélag Reykjavíkur
@@ -65,7 +65,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  coderay:
+  syntax_highlighter_opts:
     coderay_wrap: div
     coderay_line_numbers: inline
     coderay_line_numbers_start: 1
@@ -92,3 +92,7 @@ sass:
   sass_dir: _sass
 plugins:
 - jekyll-paginate
+- jekyll-assets
+gems:
+  - jekyll-assets
+  - jekyll-paginate
