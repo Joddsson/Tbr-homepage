@@ -5,4 +5,4 @@ cover_image: em-2014-145.jpg
 layout: post
 ---
 
-Fylgist með í vetur.
+Fylgist með í vetur. 
