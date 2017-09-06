@@ -94,5 +94,5 @@ plugins:
 - jekyll-paginate
 - jekyll-assets
 gems:
-  - jekyll-assets
-  - jekyll-paginate
+- jekyll-assets
+- jekyll-paginate
