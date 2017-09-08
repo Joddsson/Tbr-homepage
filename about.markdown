@@ -12,7 +12,7 @@ layout: base
 	<h1 class="board_text" align="center">Um félagið</h1>
 	<section class="long_text">
 		<p>
-			Tennis og badmintonfélag Reykjavíkur var stofnað 1938. Á stefnuskrá TBR er iðkun tennis- og badminton. Félagar eru um 4000 talsins. TBR er aðili að
+			Tennis ol badmintonfélag Reykjavíkur var stofnað 1938. Á stefnuskrá TBR er iðkun tennis- og badminton. Félagar eru um 4000 talsins. TBR er aðili að
 			<a href="http://www.badminton.is/">BADMINTONSAMBANDI ÍSLANDS</a> og þar með <a href="http://www.isi.is/">ÍÞRÓTTASAMBANDI ÍSLANDS</a> og <a href="http://www.bwfbadminton.org/">ALÞJÓÐA BADMINTONSAMBANDINU (BWF)</a>
 		</p>
 
