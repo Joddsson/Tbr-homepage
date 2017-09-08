@@ -117,7 +117,7 @@ date: 2017-09-08 14:11:00 +00:00
 							</thead>
 							<tbody>
 								<tr>
-									<td><i class="fa fa-clock-o"></i> <b>08:50</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímu</td>
+									<td><i class="fa fa-clock-o"></i> <b>08:50</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
 								</tr>
 								<tr>
 									<td><i class="fa fa-clock-o"></i> <b>09:40</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
