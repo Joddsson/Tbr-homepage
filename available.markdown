@@ -82,12 +82,6 @@ layout: base
 </nav>
 </header>
 
-<div class="article-cover">
-    <div>
-        <img src="/images/em-2014-154.jpg" class="image">
-    </div>
-</div>
-
 <head>
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
