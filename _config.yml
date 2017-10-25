@@ -1,6 +1,7 @@
 ---
 title: Tbr Homepage
 timezone: Pacific/Pago_Pago
+repository: Joddsson/Tbr-homepage
 collections:
   posts:
     title: Posts
