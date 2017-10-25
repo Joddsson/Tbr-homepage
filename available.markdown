@@ -1,6 +1,8 @@
 ---
 title: Available
 date: 2017-09-08 14:11:00 +00:00
+cover_image: em-2014-145.jpg
+layout: base
 ---
 
 <!DOCTYPE html>
@@ -18,16 +20,16 @@ date: 2017-09-08 14:11:00 +00:00
     <link rel="apple-touch-icon" href="/images/logo.png"/>
     <meta name="title" content="Tennis og badmintonfélag Reykjavíkur.">
     <link rel="canonical" href="http://0.0.0.0:4000/available/">
-    
-    
+
+
     <meta property="og:title" content="Tennis og badmintonfélag Reykjavíkur."/>
     <meta property="og:url" content="http://0.0.0.0:4000/available/"/>
-    
+
     <meta property="og:image" content="http://0.0.0.0:4000/images/em-2014-154.jpg"/>
-    
+
     <meta property="og:image" content="http://0.0.0.0:4000/images/logo.png"/>
-    
-    
+
+
     <meta property="og:site_name" content="Tennis og badmintonfélag Reykjavíkur.">
 
 </head>
