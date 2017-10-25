@@ -1,6 +1,6 @@
 ---
 title: Tbr Homepage
-timezone: Atlantic/Reykjavik
+timezone: Pacific/Pago_Pago
 collections:
   posts:
     title: Posts
@@ -29,6 +29,7 @@ inc:
   analytics:
     google: false
   google_font: Droid+Sans:400,700
+  excerpt: Vefur Tennis- og badmintonfélags Reykjavíkur.
 url: http://incorporated.sendtoinc.com
 source: "."
 destination: "./_site"
