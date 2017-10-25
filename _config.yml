@@ -11,7 +11,6 @@ collections:
     title: Uploads
     output: true
 description: TBR web.
-repository: https://github.com/Joddsson/Tbr-homepage
 inc:
   title: Tennis og badmintonfélag Reykjavíkur.
   cover_image: atli_snjolaug_logo.jpg
