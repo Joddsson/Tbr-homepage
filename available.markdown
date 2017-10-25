@@ -739,40 +739,6 @@ DISCOUNT RULES:
 50% alla sunnudaginn
 -->
 
-
-<footer class="site-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-4 footerDividerLine">
-                <p>
-                    <i class="fa fa-home"></i>&nbsp;TBR<br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; Gnoðarvogur 1<br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; 104 Reykjavík
-                </p>
-                <p>
-                    <i class="fa fa-phone"></i>&nbsp;Sími: 581-2266<br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; Netfang: tbr@tbr.is<br>
-                </p>
-            </div>
-            <div class="col-xs-4 footerDividerLine">
-                <i class="fa fa-clock-o"></i>&nbsp;Opnunartími<br>
-                <p>Mánudagur-fimmtudags: 08:00-23:00</p>
-                <p>Föstudagur: 08:00-22:10</p>
-                <p>Laugardagur: 09:00-17:30</p>
-                <p>Sunnudagur: 09:00-16:50</p>
-            </div>
-            <div class="col-xs-4">
-              <i class="fa fa-link"></i>&nbsp;Tenglar<br>
-              <a href="http://reykjavik.is/thjonusta/fristundakortid">Heimasíða frístundakortsins</a>
-              <a href="http://www.rig.is/">Heimasíða Reykjavíkurleikanna</a>
-              <a href="http://www.badminton.is">Badmintonsamband Íslands</a>
-              <a href="http://www.tournamentsoftware.com">Tournament Software</a><br>
-              <a href="http://www.badmintoneurope.com/Cms">Badminton Europe</a>
-            </div>
-        </div>
-    </div>
-</footer>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="/assets/main.js"></script>
