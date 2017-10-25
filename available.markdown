@@ -25,10 +25,6 @@ layout: base
     <meta property="og:title" content="Tennis og badmintonfélag Reykjavíkur."/>
     <meta property="og:url" content="http://0.0.0.0:4000/available/"/>
 
-    <meta property="og:image" content="http://0.0.0.0:4000/images/em-2014-154.jpg"/>
-
-    <meta property="og:image" content="http://0.0.0.0:4000/images/logo.png"/>
-
 
     <meta property="og:site_name" content="Tennis og badmintonfélag Reykjavíkur.">
 
