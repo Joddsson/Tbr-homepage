@@ -1,7 +1,6 @@
 ---
 title: Tbr Homepage
 timezone: Pacific/Pago_Pago
-repository: Joddsson/Tbr-homepage
 collections:
   posts:
     title: Posts
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+repository: Joddsson/Tbr-homepage
 description: TBR web.
 inc:
   title: Tennis og badmintonfélag Reykjavíkur.
