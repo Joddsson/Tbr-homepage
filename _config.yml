@@ -10,6 +10,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: TBR web.
 inc:
   title: Tennis og badmintonfélag Reykjavíkur.
   cover_image: atli_snjolaug_logo.jpg
