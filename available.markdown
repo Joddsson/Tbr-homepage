@@ -5,7 +5,6 @@ cover_image: em-2014-145.jpg
 layout: base
 ---
 
-<!DOCTYPE html>
 <html>
 <head> 
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
