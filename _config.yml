@@ -29,7 +29,6 @@ inc:
   analytics:
     google: false
   google_font: Droid+Sans:400,700
-  excerpt: Vefur Tennis- og badmintonfélags Reykjavíkur.
 url: http://incorporated.sendtoinc.com
 source: "."
 destination: "./_site"
