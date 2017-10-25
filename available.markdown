@@ -202,9 +202,6 @@ layout: base
 									<td>&nbsp;</td>
 								</tr>
 								<tr>
-									<td>&nbsp;</td>
-								</tr>
-								<tr>
                   <td>&nbsp;</td>
                 </tr>
 								<tr>
