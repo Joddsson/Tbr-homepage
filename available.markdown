@@ -410,9 +410,7 @@ layout: base
 								<tr>
 									<td>&nbsp;</td>
 								</tr>
-								<tr>
-									<td>&nbsp;</td>
-								</tr>
+								
 							</tbody>
 						</table>
 					</div>
