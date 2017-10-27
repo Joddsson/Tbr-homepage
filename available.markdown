@@ -247,11 +247,17 @@ layout: base
 								</tr>
 								<!--<tr>
 									<td><i class="fa fa-clock-o"></i> <b>17:10</b></td>
-								</tr>
-								<tr>
+								</tr>-->
+								<!--<tr>
+									<td><i class="fa fa-clock-o"></i> <b>18:00</b></td>
+								</tr>-->
+								<!--<tr>
+									<td><i class="fa fa-clock-o"></i> <b>18:50</b></td>
+								</tr>-->
+								<!--<tr>
 									<td><i class="fa fa-clock-o"></i> <b>19:40</b></td>
-								</tr>
-								<tr>
+								</tr>-->
+								<!--<tr>
 									<td><i class="fa fa-clock-o"></i> <b>20:30</b></td>
 								</tr>-->
 								<tr>
