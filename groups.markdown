@@ -1,6 +1,6 @@
 ---
 title: Groups
-date: 2017-09-06 23:04:00 +00:00
+date: 2017-09-06 12:04:00 -11:00
 layout: base
 cover_image: ollarar.jpg
 ---
