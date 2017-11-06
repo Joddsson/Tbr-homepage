@@ -1,6 +1,7 @@
 ---
 title: Staff
 date: 2017-11-06 11:28:00 -11:00
+layout: base
 ---
 
 <head>
