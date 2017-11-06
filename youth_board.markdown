@@ -25,6 +25,6 @@ layout: base
 		<p>Kristófer Darri Finnsson.</p>
 		<p>Margrét Dís Stefánsdóttir.</p>
 		<p>Arna Karen Jóhannsdóttir.</p>
-		<p>Margrét Nilsdóttir</p>
+		<p>Margrét Nilsdóttir.</p>
 	</section>
 </body>
