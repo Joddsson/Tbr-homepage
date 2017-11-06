@@ -1,7 +1,7 @@
 ---
 title: Players
 date: 2017-11-06 11:48:00 -11:00
-cover_image: em-2014-154.jpg
+cover_image: em-2014-145.jpg
 layout: base
 ---
 
