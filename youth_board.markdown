@@ -1,6 +1,7 @@
 ---
 title: Youth board
 date: 2017-11-06 12:28:00 -11:00
+cover_image: IMG_1029.JPG
 layout: base
 ---
 
