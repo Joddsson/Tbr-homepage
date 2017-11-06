@@ -1,6 +1,8 @@
 ---
-layout: base
+title: Players
+date: 2017-09-06 23:04:00 +00:00
 cover_image: em-2014-154.jpg
+layout: base
 ---
 
 <head>
