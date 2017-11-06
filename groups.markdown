@@ -1,8 +1,8 @@
 ---
 title: Groups
-date: 2017-09-06 12:04:00 -11:00
-layout: base
+date: 2017-11-06 12:10:00 -11:00
 cover_image: ollarar.jpg
+layout: base
 ---
 
 <head>
@@ -23,6 +23,6 @@ cover_image: ollarar.jpg
 		<p>TBR - Púkar</p>
 		<p>TBR - Trukkar</p>
 		<p>TBR - Vespur</p>
-		<p>TBR - Öllarar</p>
+		<p>TBR - Öllara</p>
 	</section>
 </body>
