@@ -1,7 +1,6 @@
 ---
 title: Staff
-date: 2017-09-06 12:04:00 -11:00
-layout: base
+date: 2017-11-06 11:28:00 -11:00
 ---
 
 <head>
@@ -52,7 +51,7 @@ layout: base
 		<figure id="row3">
 			<img src="/images/skuli_sig.jpg" alt="Skúli-meistaraflokksþjálfari">
 			<figcaption class="board_text">Skúli Sigurðsson</figcaption>
-			<p>Meistaraflokksþjálfari</p>
+			<p>Meistaraflokksþjálfar</p>
 		</figure>
 	</div>
 </body>
