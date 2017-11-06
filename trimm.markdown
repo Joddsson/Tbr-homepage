@@ -18,6 +18,6 @@ layout: base
 			sannarlega að njóta sín í þessum tímum.
 		</p>
 		<p>Trimmarar teljast þeir sem spila badminton en hafa aldrei verið skráðir í Meistara- eða A-flokk.</p>
-		<p>Yfir veturinn stendur TBR svo fyrir nokkrum trimm-mótum en það eru þjálfarar trimmsins ásamt mótstjórn TBR sem sér um þá framkvæmd.</p>
+		<p>Yfir veturinn stendur TBR svo fyrir nokkrum trimm-mótum en það eru þjálfarar trimmsins ásamt mótstjórn TBR sem sér um þá framkvæmd</p>
 	</section>
 </body>
