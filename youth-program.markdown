@@ -1,9 +1,10 @@
 ---
 title: Youth program
-date: 2017-09-06 23:04:00 +00:00
+date: 2017-09-06 12:04:00 -11:00
 cover_image: IMG_2131.JPG
 layout: base
 ---
+
 <head>
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
