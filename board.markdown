@@ -10,7 +10,7 @@ layout: base
 <body>
 <h1 class="board_text" id="page_without_coverphoto" align="center">Stjórn Tennis og badmintonfélags Reykjavíkur</h1>
 <div id="container">
-<figure id="row1"> 
+<figure id="row1">
 <img src="/images/gudmundur.png" alt="Guðmundur-formaður">
 <figcaption class="board_text">Guðmundur Adolfsson</figcaption>
 <p>Formaður</p>
@@ -47,7 +47,7 @@ layout: base
 </div>
 <div id="container">
 <figure id="row3">
-<img src="/images/jonas.jpg" alt="Jónas-fulltrúi ungra í stjór" width="200px" height="200px" />
+<img src="/images/jonas.jpg" alt="Jónas-fulltrúi ungra í stjórnn" width="200px" height="200px" />
 <figcaption class="board_text">Jónas Baldursson</figcaption>
 <p>Fulltrúi ungra í stjórn</p>
 </figure>
