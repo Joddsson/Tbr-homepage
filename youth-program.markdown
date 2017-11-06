@@ -110,7 +110,7 @@ cover_image: IMG_2131.JPG
         			<div>
         				<p class="board_text">Barna og unglingatímar</p>
         				<p>
-        					TBR rekur stórt og kraftmikið barna og unglingastarf. Félagið reynir eftir fremsta megni að stuðla að því að öll börn og unglingar eigi kost á því að spila badminton. Starfræktir eru tímar fyrir alla aldurshópa hvort heldur sem eru byrjendur eða lengra komna. Félagið heldur úti keppnishópi í öllum aldursflokkum. Keppnishópurinn samanstendur af bestu börnum og unglingum félagsins í badminton. Hægt er að lesa ferkar um einstaka hópa með því að smella á tenglana hér að ofan.
+        					TBR rekur stórt og kraftmikið barna og unglingastarf. Félagið reynir eftir fremsta megni að stuðla að því að öll börn og unglingar eigi kost á því að spila badminton. Starfræktir eru tímar fyrir alla aldurshópa hvort heldur sem eru byrjendur eða lengra komna. Félagið heldur úti keppnishópi í öllum aldursflokkum. Keppnishópurinn samanstendur af bestu börnum og unglingum félagsins í badminton. Hægt er að lesa ferkar um einstaka hópa með því að smella á tenglana hér að ofan
         				</p>
 								<p>*Tímanum er skipt upp í 4-6 bekk annars vegar og 7-10 bekk hinsvegar</p>
         			</div>
