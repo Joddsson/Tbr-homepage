@@ -52,7 +52,7 @@ layout: base
 		<figure id="row3">
 			<img src="/images/skuli_sig.jpg" alt="Skúli-meistaraflokksþjálfari">
 			<figcaption class="board_text">Skúli Sigurðsson</figcaption>
-			<p>Meistaraflokksþjálfari</p>
+			<p>Meistaraflokksþjálfar</p>
 		</figure>
 	</div>
 </body>
