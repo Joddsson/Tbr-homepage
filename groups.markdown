@@ -1,8 +1,8 @@
 ---
 title: Groups
-date: 2017-11-06 12:10:00 -11:00
-cover_image: ollarar.jpg
+date: 2017-09-06 23:04:00 +00:00
 layout: base
+cover_image: ollarar.jpg
 ---
 
 <head>
