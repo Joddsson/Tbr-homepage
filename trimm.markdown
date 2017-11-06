@@ -1,8 +1,8 @@
 ---
 title: Trimm
-date: 2017-09-06 23:04:00 +00:00
-layout: base
+date: 2017-11-06 12:16:00 -11:00
 cover_image: trimm_cover.jpg
+layout: base
 ---
 
 <head>
@@ -18,6 +18,6 @@ cover_image: trimm_cover.jpg
 			sannarlega að njóta sín í þessum tímum.
 		</p>
 		<p>Trimmarar teljast þeir sem spila badminton en hafa aldrei verið skráðir í Meistara- eða A-flokk.</p>
-		<p>Yfir veturinn stendur TBR svo fyrir nokkrum trimm-mótum en það eru þjálfarar trimmsins ásamt mótstjórn TBR sem sér um þá framkvæmd</p>
+		<p>Yfir veturinn stendur TBR svo fyrir nokkrum trimm-mótum en það eru þjálfarar trimmsins ásamt mótstjórn TBR sem sér um þá framkvæmd.</p>
 	</section>
 </body>
