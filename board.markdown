@@ -47,7 +47,7 @@ layout: base
 </div>
 <div id="container">
 <figure id="row3">
-<img src="/images/jonas.jpg" alt="Jónas-fulltrúi ungra í stjórnn" width="200px" height="200px" />
+<img src="/images/jonas.jpg" alt="Jónas-fulltrúi ungra í stjórn" width="200px" height="200px" />
 <figcaption class="board_text">Jónas Baldursson</figcaption>
 <p>Fulltrúi ungra í stjórn</p>
 </figure>
