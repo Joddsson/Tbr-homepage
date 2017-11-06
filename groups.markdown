@@ -23,6 +23,6 @@ layout: base
 		<p>TBR - Púkar</p>
 		<p>TBR - Trukkar</p>
 		<p>TBR - Vespur</p>
-		<p>TBR - Öllara</p>
+		<p>TBR - Öllarar</p>
 	</section>
 </body>
