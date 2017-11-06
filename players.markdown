@@ -1,8 +1,6 @@
 ---
 title: Players
-date: 2017-09-06 12:04:00 -11:00
-cover_image: em-2014-154.jpg
-layout: base
+date: 2017-11-06 11:48:00 -11:00
 ---
 
 <head>
@@ -14,7 +12,7 @@ layout: base
 		<h3 class="board_text" id="dividerLine"><span>Karlar</span></h3>
 		<p>Bjarki Hlífar Stefánsson</p>
 		<p>Daníel Jóhannesson </p>
-		<p><i class="fa fa-trophy"></i> Daníel Thomsen <i class="fa fa-arrow-right"></i> Íslandsmeistari í tvenndaleik 2017</p>
+		<p><i class="fa fa-trophy"></i> Daníel Thomse <i class="fa fa-arrow-right"></i> Íslandsmeistari í tvenndaleik 2017</p>
 		<p><i class="fa fa-trophy"></i> Davíð Bjarni Björnsson <i class="fa fa-arrow-right"></i> Íslandsmeistari í tvíliðaleik karla 2017</p>
 		<p>Eiður Ísak Broddason</p>
 		<p>Ívar Oddsson</p>
