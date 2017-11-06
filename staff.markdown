@@ -51,7 +51,7 @@ date: 2017-11-06 11:28:00 -11:00
 		<figure id="row3">
 			<img src="/images/skuli_sig.jpg" alt="Skúli-meistaraflokksþjálfari">
 			<figcaption class="board_text">Skúli Sigurðsson</figcaption>
-			<p>Meistaraflokksþjálfar</p>
+			<p>Meistaraflokksþjálfari</p>
 		</figure>
 	</div>
 </body>
