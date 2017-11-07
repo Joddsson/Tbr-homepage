@@ -19,7 +19,7 @@ layout: base
 			<li>Unglingameistarmót TBR</li>
 			<li>Sumarmót</li>
 		</ul>
-		<h3 class="board_text" id="dividerLine"><Span>Unglingaráð TBR veturinn 2015 - 2016</Span></h3>
+		<h3 class="board_text" id="dividerLine"><Span>Unglingaráð TBR veturinn 2017 - 2018</Span></h3>
 		<p><i class="fa fa-user"></i> Þórunn Eylands <i class="fa fa-arrow-right"></i> Formaður.</p>
 		<p>Andri Broddason.</p>
 		<p>Einar Sverrisson.</p>
