@@ -20,11 +20,10 @@ layout: base
 			<li>Sumarmót</li>
 		</ul>
 		<h3 class="board_text" id="dividerLine"><Span>Unglingaráð TBR veturinn 2015 - 2016</Span></h3>
-		<p><i class="fa fa-user"></i> Sigríður Árnadóttir <i class="fa fa-arrow-right"></i> Formaður.</p>
-		<p>Atli Tómasson.</p>
-		<p>Kristófer Darri Finnsson.</p>
-		<p>Margrét Dís Stefánsdóttir.</p>
-		<p>Arna Karen Jóhannsdóttir.</p>
-		<p>Margrét Nilsdóttir.</p>
+		<p><i class="fa fa-user"></i> Þórunn Eylands <i class="fa fa-arrow-right"></i> Formaður.</p>
+		<p>Andri Broddason.</p>
+		<p>Einar Sverrisson.</p>
+		<p>Bjarni Sverrisson.</p>
+		<p>Elís Þór Dansson.</p>
 	</section>
 </body>
