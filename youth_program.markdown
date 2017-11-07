@@ -74,7 +74,7 @@ layout: base
 			                </thead>
 			                <tbody>
 												<tr>
-			                		<td><i class="fa fa-clock-o"></i> <b>14:25</b> <i class="fa fa-long-arrow-right"></i></td>
+			                		<td><i class="fa fa-clock-o"></i> <b>14:20</b> <i class="fa fa-long-arrow-right"></i></td>
 			                		<td></td>
 			                		<td></td>
 			                    <td></td>
