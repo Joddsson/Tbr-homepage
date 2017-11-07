@@ -12,7 +12,7 @@ layout: base
 	<h1 class="board_text" align="center">Trimm</h1>
 	<section class="long_text">
 		<p>
-			Trimmtímar eru á sunnudögum kl 11:00 undir handleiðslu Jónasar Baldurssonar. Trimmið er vinsæll tími fyrir fólk sem hefur stundað badminton í 
+			Trimmtímar eru á sunnudögum kl 11:00 undir handleiðslu Maríu Árnadóttur. Trimmið er vinsæll tími fyrir fólk sem hefur stundað badminton í 
 			nokkur ár og er fært um að keppa. Í trimmtímum er spilaður tvíliðaleikur þar sem reynt er að skipta jafnt í lið og menn fái nokkra jafna leiki.
 			Aðsóknin í trimmið er góð og yfirleitt mikil keppni, hasar og læti, enda þótt menn séu ekki endilega í fremstu röð þá fær keppnisskapið svo
 			sannarlega að njóta sín í þessum tímum.
