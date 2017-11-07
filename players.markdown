@@ -9,7 +9,7 @@ layout: base
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<h1 class="board_text" align="center">Keppendur í Meistaraflokki TBR 2016-2017</h1>
+	<h1 class="board_text" align="center">Keppendur í Meistaraflokki TBR 2017-2018</h1>
 	<section class="long_text">
 		<h3 class="board_text" id="dividerLine"><span>Karlar</span></h3>
 		<p>Atli Tómasson</p>
