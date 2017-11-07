@@ -92,7 +92,7 @@ layout: base
 		                    <tr>
 		                 			<td><i class="fa fa-clock-o"></i> <b>16:00</b> <i class="fa fa-long-arrow-right"></i></td>
 	                        <td>7-10 bekkur-opið</td>
-	                        <td>4-10 bekkur-opið*</td>
+	                        <td>4-6 bekkur-opið</td>
 	                        <td>Keppnish. ung.</td>
 	                        <td>7-10 bekkur-opið</td>
 	                        <td>7-10 bekkur-opið</td>
@@ -113,7 +113,6 @@ layout: base
         				<p>
         					TBR rekur stórt og kraftmikið barna og unglingastarf. Félagið reynir eftir fremsta megni að stuðla að því að öll börn og unglingar eigi kost á því að spila badminton. Starfræktir eru tímar fyrir alla aldurshópa hvort heldur sem eru byrjendur eða lengra komna. Félagið heldur úti keppnishópi í öllum aldursflokkum. Keppnishópurinn samanstendur af bestu börnum og unglingum félagsins í badminton. Hægt er að lesa ferkar um einstaka hópa með því að smella á tenglana hér að ofan.
         				</p>
-								<p>*Tímanum er skipt upp í 4-6 bekk annars vegar og 7-10 bekk hinsvegar</p>
         			</div>
 				</div>
 				<div class="tab-pane" id="tab2">
