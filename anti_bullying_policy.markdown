@@ -1,8 +1,8 @@
 ---
 title: Anti bullying policy
 date: 2017-09-06 12:04:00 -11:00
-layout: base
 cover_image: em-2014-145.jpg
+layout: base
 ---
 
 <head>
@@ -38,6 +38,6 @@ cover_image: em-2014-145.jpg
 			Yfirþjálfari setur aðra þjálfara þolandans og starfsfólk inn í málið ef við á.. Hann gerir forráðamönnum þolanda grein fyrir málinu og veitir upplýsingar um úrræði sem þeim stendur til boða samkvæmt eðli málsins.
 		</p>
 		<p>Hann ræðir við gerendur og forráðamenn þeirra tli að vinna bót á málum.</p>
-		<p>Mikilvægt er að yfirþjálfari skrái allar aðgerðir og gæti trúnaðar í meðferð málsins.</p>
+		<p>Mikilvægt er að yfirþjálfari skrái allar aðgerðir og gæti trúnaðar í meðferð málsins</p>
 	</section>
 </body>
