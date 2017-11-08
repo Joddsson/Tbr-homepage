@@ -19,16 +19,12 @@ layout: base
                         <th>Verð</th>
                     </tr>
                 </thead>
-                <tbody>
+ <tbody>
                     <tr>
                         <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2017-2018</td>
                         <td>130.000kr.</td>
                     </tr>
-                    <!-- <tr>
-                        <td>Fastur tími einu sinni í viku 1. júní - 31. ágúst 2017</td>
-                        <td>29.000kr.</td>
-                    </tr> -->
-                    <tr>
+<tr>
                         <td>
                             20% afsláttartímar á vetrartímum
                             <ul>
@@ -50,7 +46,7 @@ layout: base
                         </td>
                         <td>65.000kr.</td>
                     </tr>
-                    <tr>
+<tr>
                         <td>Stakur tími</td>
                         <td>4200kr.</td>
                     </tr>
@@ -58,15 +54,14 @@ layout: base
                         <td>10 tíma kort</td>
                         <td>32.500kr.</td>
                     </tr>
-                    <tr>
+<tr>
                         <td>
-                            10 tíma kort fyrir framhaldsskólanema</br>
-                            Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
+                            10 tíma kort fyrir framhaldsskólanema. Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
                         </td>
                         <td>16.250kr.</td>
                     </tr>
-                    <tr>
-                        <td>Árgjald <i class="fa fa-star small"></td>
+<tr>
+                        <td>Árgjald <i class="fa fa-star small"></i></td>
                         <td>3000kr.</td>
                     </tr>
                     <tr>
@@ -104,7 +99,7 @@ layout: base
                 </tbody>
             </table>
         </div>
-        <h3 class="board_text">Athugið</h3>
+<h3 class="board_text">Athugið</h3>
         <p><i class="fa fa-star small"></i> Árgjald í TBR bæstist við vallarverð fyrir hvern einstakling umfram fjóra.</p>
         <p>
             Vetrartímabil TBR miðast við 1. september - 31. maí. Öll verð miðast við 1. september. Verð fyrir fasta tíma lækka í hlutfalli við hversu margar vikur eru eftir af vetrartímabilinu. Einnig er vert að nefna að öll verð miðast við leigu á velli og verð deilist niður á þá sem spila.
