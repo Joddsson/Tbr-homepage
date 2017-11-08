@@ -110,7 +110,7 @@ layout: base
             Vetrartímabil TBR miðast við 1. september - 31. maí. Öll verð miðast við 1. september. Verð fyrir fasta tíma lækka í hlutfalli við hversu margar vikur eru eftir af vetrartímabilinu. Einnig er vert að nefna að öll verð miðast við leigu á velli og verð deilist niður á þá sem spila.
         </p>
         <p>
-            Spaðar og badmintonkúlur eru ekki innifaldar í verði. Hægt er að kaupa eða leigja spaða en kúlur verður að kaupa. Bæði fjaðra- og plastkúlur eru til sölu í verslun TBR sem og gott úrval af fyrsta flokks badmintonspöðum
+            Spaðar og badmintonkúlur eru ekki innifaldar í verði. Hægt er að kaupa eða leigja spaða en kúlur verður að kaupa. Bæði fjaðra- og plastkúlur eru til sölu í verslun TBR sem og gott úrval af fyrsta flokks badmintonspöðum.
         </p>
     </section>
 </body>
