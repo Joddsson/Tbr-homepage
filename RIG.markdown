@@ -28,7 +28,7 @@ layout: base
     <p>
       Dagskrá Reykjavík International Games 2016:<br>
       laugardagur 4. febrúar: Keppni hefst kl 09:00 og leikið fram eftir degi<br>
-      sunnudagur 5. febrúar: Undanúrslit hefjast kl 09:00 og úrslit á eftir.
+      sunnudagur 5. febrúar: Undanúrslit hefjast kl 09:00 og úrslit á eftir
     </p>
 
 		<!-- <p>Mótaskráin fyrir RIG 2014 smellið hér</p> -->
