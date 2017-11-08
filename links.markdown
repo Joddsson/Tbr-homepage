@@ -1,6 +1,8 @@
 ---
+title: Links
 layout: base
 cover_image: em-2014-128.jpg
+date: 2017-09-06 12:04:00 -11:00
 ---
 
 <head>
