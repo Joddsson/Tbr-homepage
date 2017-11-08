@@ -54,25 +54,6 @@ layout: base
                         <td>10 tíma kort</td>
                         <td>32.500kr.</td>
                     </tr>
-                    <tr>
-                        <td>
-                            10 tíma kort fyrir framhaldsskólanema</br>
-                            Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
-                        </td>
-                        <td>16.250kr.</td>
-                    </tr>
-                    <tr>
-                        <td>Árgjald <i class="fa fa-star small"></td>
-                        <td>3000kr.</td>
-                    </tr>
-                    <tr>
-                        <td>Kvennatímar 10 tíma kort</td>
-                        <td>16.250kr.</td>
-                    </tr>
-                    <tr>
-                        <td>Trimmtími</td>
-                        <td>2100kr.</td>
-                    </tr>
                 </tbody>
             </table>
         </div>
