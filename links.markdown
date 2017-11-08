@@ -1,8 +1,8 @@
 ---
 title: Links
 date: 2017-09-06 12:04:00 -11:00
-layout: base
 cover_image: em-2014-128.jpg
+layout: base
 ---
 
 <head>
@@ -43,7 +43,7 @@ cover_image: em-2014-128.jpg
 					<a href="http://reykjavik.is/thjonusta/fristundakortid">
 						<figure>
 							<img src="/images/ITR_fristundakortid.jpg" width="300px" height="200px" />
-							<p>Frístundakortið</p>
+							<p>Frístundakorti</p>
 						</figure>
 					</a>	
 				</div>
