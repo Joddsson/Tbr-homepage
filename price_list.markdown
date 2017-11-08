@@ -56,8 +56,7 @@ layout: base
                     </tr>
 <tr>
                         <td>
-                            10 tíma kort fyrir framhaldsskólanema
-                            Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
+                            10 tíma kort fyrir framhaldsskólanema. Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
                         </td>
                         <td>16.250kr.</td>
                     </tr>
