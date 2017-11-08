@@ -11,7 +11,8 @@ layout: base
 <body>
 	<h1 class="board_text" align="center">Verðskrá 2017 - 2018</h1>
 	<section class="long_text">
-<table class="table table-hover">
+        <div class="table-responsive">
+            <table class="table table-hover">
                 <thead>
                     <tr>
                         <th>Lýsing</th>
@@ -102,6 +103,7 @@ layout: base
                     </tr>
                 </tbody>
             </table>
+        </div>
         <h3 class="board_text">Athugið</h3>
         <p><i class="fa fa-star small"></i> Árgjald í TBR bæstist við vallarverð fyrir hvern einstakling umfram fjóra.</p>
         <p>
