@@ -53,7 +53,7 @@ layout: base
 			<h3 class="board_text">Nánari upplýsingar</h3>
 			<p>581-2266</p>
 			<p>www.tbr.is</p>
-			<p>tbr@tbr.i</p>
+			<p>tbr@tbr.is</p>
 		</div>
 	</section>
 </body>
