@@ -47,7 +47,7 @@ layout: base
 			
 			<li class="board_text">Samstarf við aðra aðila sem sinna málefnum barna og unglinga.</li>
 			<p>Félagið mun hafa náið samstarf við þá aðila sem sinna tómstundastarfi barna og unglinga.</p>
-			<p>Félagið mun hafa náið samstarf við fagaðila sem sinna börnum og unglingum, fá frá þeim fræðsluefni og hafa samráð um einstaklinga í áhættuhópi</p>	
+			<p>Félagið mun hafa náið samstarf við fagaðila sem sinna börnum og unglingum, fá frá þeim fræðsluefni og hafa samráð um einstaklinga í áhættuhópi.</p>	
 		</ol>
 	</section>
 </body>
