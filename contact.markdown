@@ -1,8 +1,8 @@
 ---
 title: Contact
+date: 2017-09-06 12:04:00 -11:00
 layout: base
 cover_image: em-2014-154.jpg
-date: 2017-09-06 12:04:00 -11:00
 ---
 
 <head>
