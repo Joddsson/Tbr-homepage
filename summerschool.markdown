@@ -1,8 +1,8 @@
 ---
 title: Summerschool
 date: 2017-09-06 12:04:00 -11:00
-layout: base
 cover_image: aramotaaefing.jpg
+layout: base
 ---
 
 <head>
@@ -53,7 +53,7 @@ cover_image: aramotaaefing.jpg
 			<h3 class="board_text">Nánari upplýsingar</h3>
 			<p>581-2266</p>
 			<p>www.tbr.is</p>
-			<p>tbr@tbr.is</p>
+			<p>tbr@tbr.i</p>
 		</div>
 	</section>
 </body>
