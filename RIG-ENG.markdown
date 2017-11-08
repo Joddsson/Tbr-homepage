@@ -52,6 +52,6 @@ layout: base
       The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking her
     </p> -->
 		<!-- <p>The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here.</p> -->
-    <p>Click <a href="http://www.rig.is">here</a> to go to the official Reykjavik Internationl Games homepage</p>
+    <p>Click <a href="http://www.rig.is">heree</a> to go to the official Reykjavik Internationl Games homepage</p>
 	</section>
 </body>
