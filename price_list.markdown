@@ -1,6 +1,8 @@
 ---
+title: Price list
 layout: base
 cover_image: em-2014-145.jpg
+date: 2017-09-06 23:04:00 +00:00
 ---
 
 <head>
