@@ -60,8 +60,52 @@ layout: base
                         </td>
                         <td>16.250kr.</td>
                     </tr>
+<tr>
+                        <td>Árgjald <i class="fa fa-star small"></i></td>
+                        <td>3000kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Kvennatímar 10 tíma kort</td>
+                        <td>16.250kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Trimmtími</td>
+                        <td>2100kr.</td>
+                    </tr>
+										<tr>
+                        <td>Trimmtími - 10 tíma kort</td>
+                        <td>10.500kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Byrjendanámskeið (6 vikna)</td>
+                        <td>12.200kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Barna- og unglingatímar haustönn 1 sinni í viku</td>
+                        <td>16.400kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Barna- og unglingatímar haustönn 2 sinni í viku</td>
+                        <td>32.800kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Barna- og unglingatímar vorönn 1 sinni í viku</td>
+                        <td>16.400kr.</td>
+                    </tr>
+                    <tr>
+                        <td>Barna- og unglingatímar vorönn 2 sinni í viku</td>
+                        <td>32.800kr.</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
+<h3 class="board_text">Athugið</h3>
+        <p><i class="fa fa-star small"></i> Árgjald í TBR bæstist við vallarverð fyrir hvern einstakling umfram fjóra.</p>
+        <p>
+            Vetrartímabil TBR miðast við 1. september - 31. maí. Öll verð miðast við 1. september. Verð fyrir fasta tíma lækka í hlutfalli við hversu margar vikur eru eftir af vetrartímabilinu. Einnig er vert að nefna að öll verð miðast við leigu á velli og verð deilist niður á þá sem spila.
+        </p>
+        <p>
+            Spaðar og badmintonkúlur eru ekki innifaldar í verði. Hægt er að kaupa eða leigja spaða en kúlur verður að kaupa. Bæði fjaðra- og plastkúlur eru til sölu í verslun TBR sem og gott úrval af fyrsta flokks badmintonspöðum.
+        </p>
     </section>
 </body>
