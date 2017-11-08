@@ -43,7 +43,7 @@ layout: base
 					<a href="http://reykjavik.is/thjonusta/fristundakortid">
 						<figure>
 							<img src="/images/ITR_fristundakortid.jpg" width="300px" height="200px" />
-							<p>Frístundakorti[</p>
+							<p>Frístundakortið</p>
 						</figure>
 					</a>	
 				</div>
