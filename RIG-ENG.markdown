@@ -1,7 +1,6 @@
 ---
-title: RIG
-date: 2017-11-06 11:48:00 -11:00
-cover_image: em-2014-145.jpg
+title: RIG-ENG
+date: 2017-11-08 09:41:00 -11:00
 layout: base
 ---
 
@@ -49,7 +48,7 @@ layout: base
     </p>
     <!-- <p>
       <strong>Draw</strong><br>
-      The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here
+      The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking her
     </p> -->
 		<!-- <p>The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here.</p> -->
     <p>Click <a href="http://www.rig.is">here</a> to go to the official Reykjavik Internationl Games homepage</p>
