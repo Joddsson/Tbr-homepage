@@ -1,6 +1,7 @@
 ---
 title: RIG-ENG
 date: 2017-11-08 09:41:00 -11:00
+cover_image: em-2014-145.jpg
 layout: base
 ---
 
