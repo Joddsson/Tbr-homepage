@@ -29,7 +29,7 @@ layout: base
 
 		<p>
 			Sími: 581-2266<br>
-			Netfang: tbr@tbr.i<br>
+			Netfang: tbr@tbr.is<br>
 		</p>
 	</section>
 </body>
