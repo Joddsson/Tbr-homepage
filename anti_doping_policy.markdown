@@ -1,8 +1,8 @@
 ---
 title: Anti doping policy
 date: 2017-09-06 12:04:00 -11:00
-layout: base
 cover_image: em-2014-145.jpg
+layout: base
 ---
 
 <head>
@@ -47,7 +47,7 @@ cover_image: em-2014-145.jpg
 			
 			<li class="board_text">Samstarf við aðra aðila sem sinna málefnum barna og unglinga.</li>
 			<p>Félagið mun hafa náið samstarf við þá aðila sem sinna tómstundastarfi barna og unglinga.</p>
-			<p>Félagið mun hafa náið samstarf við fagaðila sem sinna börnum og unglingum, fá frá þeim fræðsluefni og hafa samráð um einstaklinga í áhættuhópi.</p>	
+			<p>Félagið mun hafa náið samstarf við fagaðila sem sinna börnum og unglingum, fá frá þeim fræðsluefni og hafa samráð um einstaklinga í áhættuhópi</p>	
 		</ol>
 	</section>
 </body>
