@@ -186,7 +186,7 @@ layout: base
 									<td><i class="fa fa-clock-o"></i> <b>21:00</b></td>
 								</tr>
 								<tr>
-									<td><i class="fa fa-clock-o"></i> <b>21:50</b></td>
+									<td><i class="fa fa-clock-o"></i> <b>21:50</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
 								</tr>
 								<tr>
 									<td>&nbsp;</td>
