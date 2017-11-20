@@ -571,9 +571,9 @@ layout: base
 								<tr>
 									<td><i class="fa fa-clock-o"></i> <b>18:50</b></td>
 								</tr>
-								<!--<tr>
+								<tr>
 									<td><i class="fa fa-clock-o"></i> <b>19:40</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
-								</tr>-->
+								</tr>
 								<tr>
 									<td><i class="fa fa-clock-o"></i> <b>20:30</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
 								</tr>
