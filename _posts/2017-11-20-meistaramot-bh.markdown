@@ -33,12 +33,12 @@ Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Ha
 
 ### A flokkur
 **Einliðaleikur karla.**  
-&nbsp;&nbsp;1. Elís Þór Dansson.	
+&nbsp;&nbsp;1. Elís Þór Dansson.  
 &nbsp;&nbsp;2. Aron Óttarsson.  
 
 **Tvíliðaleikur karla.**  
-&nbsp;&nbsp;1. Ingólfur Ingólfsson og Jón Sigurðsson.		
-&nbsp;&nbsp;2. Aron Óttarsson og Guðjón Helgi Auðunsson.		
+&nbsp;&nbsp;1. Ingólfur Ingólfsson og Jón Sigurðsson.  
+&nbsp;&nbsp;2. Aron Óttarsson og Guðjón Helgi Auðunsson.  
 
 **Tvíliðaleikur kvenna.**  
 &nbsp;&nbsp;2. Margrét Dís Stefánsdóttir og Svanfríður Oddgeirsdóttir [Afturelding].
