@@ -13,7 +13,7 @@ Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Ha
 
 ### Meistaraflokkur   
 **Einliðaleikur karla.**  
-&nbsp;&nbsp;1. Eiður Ísak Broddason 
+&nbsp;&nbsp;1. Eiður Ísak Broddason.  
 &nbsp;&nbsp;2. Sigurður Sverrir Gunnarsson.  
 
 **Einliðaleikur kvenna.**  
