@@ -51,9 +51,6 @@ Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Ha
 **Einliðaleikur karla.**  
 &nbsp;&nbsp;1. Gústav Nilsson. 
 
-**Tvenndaleikur.**  
-&nbsp;&nbsp;2. Sigurður Ingi Pálsson og Bjarndís Helga Blöndal[Hamar].  
-
 **Tvíliðaleikur karla.**  
 &nbsp;&nbsp;1. Gunnar Örn Ingólfsson og Steinþór Óli Hilmarsson.
 
