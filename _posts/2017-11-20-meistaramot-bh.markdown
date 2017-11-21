@@ -3,6 +3,9 @@ title: Meistaramót BH
 date: 2017-11-20 07:10:00 -11:00
 cover_image: "/uploads/em-2014-145.jpg"
 excerpt: Margrét Jóhannsdóttir þreföld um helgina.
+author:
+  name: Þorkell Ingi Eriksson
+  image: "/uploads/tbr_logo.jpg"
 ---
 
 Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Hafnarfirði. Þetta var skemmtilegt og vel skipulagt mót þar sem TBR átti 36 keppendur í A-, B- og meistaraflokki. Margrét Jóhannsdóttir náði þeim frábæra árangri að vinna þrefalt í meistaraflokki. 
