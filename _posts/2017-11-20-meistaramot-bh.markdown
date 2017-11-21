@@ -5,7 +5,6 @@ cover_image: "/uploads/em-2014-145.jpg"
 excerpt: Margrét Jóhannsdóttir þreföld um helgina.
 author:
   name: Þorkell Ingi Eriksson
-  image: "/uploads/tbr_logo.jpg"
 ---
 
 Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Hafnarfirði. Þetta var skemmtilegt og vel skipulagt mót þar sem TBR átti 36 keppendur í A-, B- og meistaraflokki. Margrét Jóhannsdóttir náði þeim frábæra árangri að vinna þrefalt í meistaraflokki. 
@@ -26,7 +25,7 @@ Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Ha
 
 **Tvíliðaleikur kvenna.**  
 &nbsp;&nbsp;1. Margrét Jóhannsdóttir og Sigríður Árnadóttir.  
-&nbsp;&nbsp;2. Erla Björg Hafsteinsdóttir [BH] og Snjólaug Jóhannsdóttir.
+&nbsp;&nbsp;2. Erla Björg Hafsteinsdóttir [BH] og Snjólaug Jóhannsdóttir.	
 
 **Tvenndaleikur**  
 &nbsp;&nbsp;1. Daníel Thomsen og Margrét Jóhannsdóttir.  
@@ -34,12 +33,12 @@ Meistaramót BH fór fram um helgina í íþróttahúsinu við Strandgötu í Ha
 
 ### A flokkur
 **Einliðaleikur karla.**  
-&nbsp;&nbsp;1. Elís Þór Dansson.
+&nbsp;&nbsp;1. Elís Þór Dansson.	
 &nbsp;&nbsp;2. Aron Óttarsson.  
 
 **Tvíliðaleikur karla.**  
-&nbsp;&nbsp;1. Ingólfur Ingólfsson og Jón Sigurðsson.
-&nbsp;&nbsp;2. Aron Óttarsson og Guðjón Helgi Auðunsson.
+&nbsp;&nbsp;1. Ingólfur Ingólfsson og Jón Sigurðsson.		
+&nbsp;&nbsp;2. Aron Óttarsson og Guðjón Helgi Auðunsson.		
 
 **Tvíliðaleikur kvenna.**  
 &nbsp;&nbsp;2. Margrét Dís Stefánsdóttir og Svanfríður Oddgeirsdóttir [Afturelding].
