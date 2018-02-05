@@ -144,9 +144,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:40</b></td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:30</b></td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>21:20</b></td>
                 </tr>
