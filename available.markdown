@@ -301,9 +301,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td>&nbsp;</td>
-                </tr>
+                </tr>-->
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>20:10</b></td>
                         </tr>-->
