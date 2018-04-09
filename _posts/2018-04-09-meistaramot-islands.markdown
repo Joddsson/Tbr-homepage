@@ -1,6 +1,6 @@
 ---
 title: Meistaramót Íslands.
-date: 2018-04-09 04:18:00 -11:00
+date: 2018-04-09 13:00:00 -11:00
 cover_image: "/uploads/em-2014-145.jpg"
 excerpt: Nýjir Íslandsmeistarar krýndir um helgina.
 author:
