@@ -1,5 +1,5 @@
 ---
-title: Meistaramót BH
+title: Meistaramót BH.
 date: 2017-11-20 07:10:00 -11:00
 cover_image: "/uploads/em-2014-145.jpg"
 excerpt: Margrét Jóhannsdóttir þreföld um helgina.
