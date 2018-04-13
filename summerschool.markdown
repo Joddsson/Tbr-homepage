@@ -51,7 +51,7 @@ layout: base
 
     <div class="indented">
       <h3 class="board_text">Skráning</h3>
-      <p>Skráning hefst 10. maí í síma 581 2266</p>
+      <p>Skráning hefst 9. maí í síma 581 2266</p>
     </div>
 
     <div class="indented">
