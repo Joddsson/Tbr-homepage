@@ -32,7 +32,8 @@ layout: base
     </p>
 
     <p>
-      Þjálfarar eru m.a. Árni Þór Hallgrímsson badmintonþjálfari, Jóhann Kjartansson badmintonþjálfari, o.fl. Öll börn í Sumarskólanum fá jafna viðurkenningu fyrir þátttöku og verðlaunapening eins og stefna ÍSÍ í þjálfun barna og unglinga segir til um.
+      Þjálfarar eru m.a. Atli Jóhannesson íþróttafræðingur, Árni Þór Hallgrímsson badmintonþjálfari, Jóhann Kjartansson badmintonþjálfari, o.fl. Öll börn í Sumarskólanum fá jafna viðurkenningu fyrir þátttöku og verðlaunapening eins og stefna ÍSÍ í þjálfun barna og unglinga segir til um. 
+
     </p>
 
     <div class="indented">
@@ -50,7 +51,7 @@ layout: base
 
     <div class="indented">
       <h3 class="board_text">Skráning</h3>
-      <p>Skráning hefst 9. maí í síma 581 2266</p>
+      <p>Skráning hefst 10. maí í síma 581 2266</p>
     </div>
 
     <div class="indented">
