@@ -36,7 +36,7 @@ layout: base
                     </tr>
                     <tr>
                         <td>
-                            50% afsláttartímar á vetrartímum
+                            50% afsláttartímar á föstum vetrartímum
                             <ul>
                                 <li>mánudaga, þriðjudaga, miðvikudaga, og fimmtudaga eftir kl 21:50</li>
                                 <li>föstudaga eftir kl. 19:20</li>
