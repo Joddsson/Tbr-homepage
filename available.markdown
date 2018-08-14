@@ -102,7 +102,7 @@ layout: base
 
       <div class="tab-content">
         <div class="tab-pane active" id="tab1">
-          <h3 class="board_text">Lausir tímar á mánudögum veturinn 2017-2018</h3>
+          <h3 class="board_text">Lausir tímar á mánudögum veturinn 2018-2019</h3>
           <div class="table-responsive">
             <table class="table table-hover" id="house1">
               <thead>
@@ -129,15 +129,15 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>13:00</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>16:20</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
-                </tr>-->
+                </tr>
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>17:10</b></td>
                         </tr>-->
-                <!--<tr>
+                <tr>
                             <td><i class="fa fa-clock-o"></i> <b>18:00</b></td>
-                        </tr>-->
+                        </tr>
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>18:50</b></td>
                         </tr>-->
@@ -176,18 +176,18 @@ layout: base
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>18:30</b></td>
                         </tr>-->
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:20</b></td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:10</b></td>
                 </tr>
                 <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>21:00</b></td>
                 </tr>-->
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>21:50</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
