@@ -646,7 +646,7 @@ layout: base
           </div>
         </div>
         <div class="tab-pane" id="tab6">
-          <h3 class="board_text">Lausir tímar á laugardögum veturinn 2017-2018</h3>
+          <h3 class="board_text">Lausir tímar á laugardögum veturinn 2018-2019</h3>
           <div class="table-responsive">
             <table class="table table-hover">
               <thead>
@@ -693,7 +693,7 @@ layout: base
           </div>
         </div>
         <div class="tab-pane" id="tab7">
-          <h3 class="board_text">Lausir tímar á sunnudögum veturinn 2017-2018</h3>
+          <h3 class="board_text">Lausir tímar á sunnudögum veturinn 2018-2019</h3>
           <div class="table-responsive">
             <table class="table table-hover">
               <thead>
