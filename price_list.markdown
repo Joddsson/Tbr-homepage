@@ -41,7 +41,7 @@ layout: base
                                 <li>mánudaga, þriðjudaga, miðvikudaga, og fimmtudaga eftir kl 21:50</li>
                                 <li>föstudaga eftir kl. 19:20</li>
                                 <li>laugardaga eftir kl. 11:40</li>
-                                <li>sunnudaga kl. 09:10 og 10:00</li>
+                                <li>sunnudaga </li>
                             </ul>
                         </td>
                         <td>68.000kr.</td>
