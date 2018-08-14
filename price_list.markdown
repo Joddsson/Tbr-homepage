@@ -21,8 +21,8 @@ layout: base
                 </thead>
  <tbody>
                     <tr>
-                        <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2017-2018</td>
-                        <td>130.000kr.</td>
+                        <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2018-2019</td>
+                        <td>136.000kr.</td>
                     </tr>
 <tr>
                         <td>
@@ -32,7 +32,7 @@ layout: base
                                 <li>virka daga kl. 13:00 - 16:50</li>
                             </ul>
                         </td>
-                        <td>104.000kr.</td>
+                        <td>108.800kr.</td>
                     </tr>
                     <tr>
                         <td>
@@ -44,21 +44,21 @@ layout: base
                                 <li>sunnudaga kl. 09:10 og 10:00</li>
                             </ul>
                         </td>
-                        <td>65.000kr.</td>
+                        <td>68.000kr.</td>
                     </tr>
 <tr>
                         <td>Stakur tími</td>
-                        <td>4200kr.</td>
+                        <td>4400kr.</td>
                     </tr>
                     <tr>
                         <td>10 tíma kort</td>
-                        <td>32.500kr.</td>
+                        <td>34.000kr.</td>
                     </tr>
 <tr>
                         <td>
                             10 tíma kort fyrir framhaldsskólanema. Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
                         </td>
-                        <td>16.250kr.</td>
+                        <td>17.000kr.</td>
                     </tr>
 <tr>
                         <td>Árgjald <i class="fa fa-star small"></i></td>
@@ -66,35 +66,35 @@ layout: base
                     </tr>
                     <tr>
                         <td>Kvennatímar 10 tíma kort</td>
-                        <td>16.250kr.</td>
+                        <td>17.000kr.</td>
                     </tr>
                     <tr>
                         <td>Trimmtími</td>
-                        <td>2100kr.</td>
+                        <td>2.200</td>
                     </tr>
 										<tr>
                         <td>Trimmtími - 10 tíma kort</td>
-                        <td>10.500kr.</td>
+                        <td>11.000kr.</td>
                     </tr>
                     <tr>
                         <td>Byrjendanámskeið (6 vikna)</td>
-                        <td>12.200kr.</td>
+                        <td>12.800kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar haustönn 1 sinni í viku</td>
-                        <td>16.400kr.</td>
+                        <td>17.200kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar haustönn 2 sinni í viku</td>
-                        <td>32.800kr.</td>
+                        <td>34.400kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar vorönn 1 sinni í viku</td>
-                        <td>16.400kr.</td>
+                        <td>17.200kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar vorönn 2 sinni í viku</td>
-                        <td>32.800kr.</td>
+                        <td>34.400kr.</td>
                     </tr>
                 </tbody>
             </table>
