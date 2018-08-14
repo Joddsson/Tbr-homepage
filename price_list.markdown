@@ -26,7 +26,7 @@ layout: base
                     </tr>
 <tr>
                         <td>
-                            20% afsláttartímar á vetrartímum
+                            20% afsláttartímar á föstum vetrartímum
                             <ul>
                                 <li>virka daga kl. 8:00 - 12:00</li>
                                 <li>virka daga kl. 13:00 - 16:50</li>
