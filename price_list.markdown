@@ -9,7 +9,7 @@ layout: base
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<h1 class="board_text" align="center">Verðskrá 2017 - 2018</h1>
+	<h1 class="board_text" align="center">Verðskrá 2018 - 2019</h1>
 	<section class="long_text">
         <div class="table-responsive">
             <table class="table table-hover">
