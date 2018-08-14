@@ -62,7 +62,7 @@ layout: base
                     </tr>
 <tr>
                         <td>Árgjald <i class="fa fa-star small"></i></td>
-                        <td>3000kr.</td>
+                        <td>3.000kr.</td>
                     </tr>
                     <tr>
                         <td>Kvennatímar 10 tíma kort</td>
