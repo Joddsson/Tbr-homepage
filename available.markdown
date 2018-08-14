@@ -198,6 +198,9 @@ layout: base
                   <td>&nbsp;</td>
                 </tr>
                 <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
                             <td>&nbsp;</td>
                         </tr>
                 <tr>
@@ -311,12 +314,12 @@ layout: base
                             <td><i class="fa fa-clock-o"></i> <b>17:40</b></td>
                   <td>&nbsp;</td>
                         </tr>-->
-                <tr>
+                <!--<tr>
                   <td>&nbsp;</td>
                 </tr>
                 <tr>
                   <td>&nbsp;</td>
-                </tr>
+                </tr>-->
                 
               </tbody>
             </table>
@@ -416,7 +419,7 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td>&nbsp;</td>
                 </tr>
                 <tr>
@@ -424,7 +427,7 @@ layout: base
                 </tr>
                 <tr>
                   <td>&nbsp;</td>
-                </tr>
+                </tr>-->
                 
               </tbody>
             </table>
@@ -521,9 +524,9 @@ layout: base
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
@@ -547,7 +550,7 @@ layout: base
           </div>
         </div>
         <div class="tab-pane" id="tab5">
-          <h3 class="board_text">Lausir tímar á föstudögum veturinn 2017-2018</h3>
+          <h3 class="board_text">Lausir tímar á föstudögum veturinn 2018-2019</h3>
           <div class="table-responsive">
             <table class="table table-hover" id="house1">
               <thead>
@@ -558,13 +561,13 @@ layout: base
               <tbody>
                 <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>10:30</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>11:20</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>12:10</b></td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>13:00</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
                 </tr>
@@ -580,9 +583,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>18:50</b></td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:40</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:30</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
                 </tr>
@@ -609,10 +612,10 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>18:30</b></td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:20</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:10</b> <i class="fa fa-long-arrow-right"></i> 50% afsláttur af föstum tímum.</td>
                 </tr>
