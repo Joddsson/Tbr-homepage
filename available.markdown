@@ -639,7 +639,7 @@ layout: base
                 </tr>-->
                 <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
               </tbody>
             </table>
           </div>
