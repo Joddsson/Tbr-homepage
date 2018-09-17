@@ -191,9 +191,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
@@ -317,9 +317,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 
               </tbody>
             </table>
@@ -542,8 +542,8 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <tr>
-                  <td>&nbsp;</td>
+                <!--<tr>
+                  <td>&nbsp;</td>-->
                 </tr>
               </tbody>
             </table>
@@ -689,7 +689,7 @@ layout: base
                 </tr>-->
               </tbody>
             </table>
-          </div>
+          </div> 
         </div>
         <div class="tab-pane" id="tab7">
           <h3 class="board_text">Lausir tímar á sunnudögum veturinn 2018-2019</h3>
