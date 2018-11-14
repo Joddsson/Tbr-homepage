@@ -32,7 +32,7 @@ layout: base
     </p>
     <p>
       <strong>Programme for the RIG 2019 badminton event</strong><br>
-      Saturday 2nd of February: Start of badminton event at 09:00 am<br>
+      Saturday 2nd of February: Start of badminton event at 09:00 am.<br>
       Sunday 3rd of February: Start of semi-finals at 09:00 am followed by finals.
     </p>
     <!-- <p>
@@ -52,6 +52,6 @@ layout: base
       The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking her
     </p> -->
     <!-- <p>The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here.</p> -->
-    <p>Click <a href="http://www.rig.is">here</a> to go to the official Reykjavik Internationl Games homepage</p>
+    <p>Click <a href="http://www.rig.is">here</a> to go to the official Reykjavik Internationl Games homepage.</p>
   </section>
 </body>
