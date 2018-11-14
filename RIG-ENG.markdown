@@ -6,14 +6,14 @@ layout: base
 ---
 
 <head>
-	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<h1 class="board_text" align="center">Reykjavík International Games 2018</h1>
+  <h1 class="board_text" align="center">Reykjavík International Games 2019</h1>
   <a href="/RIG">
     <img src="/images/isl_flag.jpg" class="language-flag"><img>
   </a>
-	<section class="long_text">
+  <section class="long_text">
     <p>
       Badminton has been a part of the Reykjavik International Games from the beginning. The badminton event has been organized by Tennis- and badmintonclub of Reykjavik (TBR).
       Mostly there have been players from the nordic countries who have entered the tournament.
@@ -31,15 +31,15 @@ layout: base
       TBR offers a world class facilities close to the RIG centre arena. The hall is a badminton only hall with 12 courts and wooden floors. The address is: Gnodarvogur 1 104 Reykjavik.
     </p>
     <p>
-      <strong>Programme for the RIG 2018 badminton event</strong><br>
-      Saturday 3th of February: Start of badminton event at 09:00 am<br>
-      Sunday 4th of February: Start of semi-finals at 09:00 am followed by finals.
+      <strong>Programme for the RIG 2019 badminton event</strong><br>
+      Saturday 2nd of February: Start of badminton event at 09:00 am<br>
+      Sunday 3rd of February: Start of semi-finals at 09:00 am followed by finals.
     </p>
     <!-- <p>
       <strong>Live broadcast from the finals</strong><br>
       There will be live streaming from the finals starting at 13:00 local time. The link to the live stream is found by clicking here and then choose player nr 3
     </p> -->
-		<p>
+    <p>
       <strong>Entrie fees</strong><br>
       Singles 2.000 ISK pr person. Doubles 1.800 ISK pr person.
     </p>
@@ -51,7 +51,7 @@ layout: base
       <strong>Draw</strong><br>
       The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking her
     </p> -->
-		<!-- <p>The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here.</p> -->
+    <!-- <p>The draw for the 2014 Reykjavik International Games has been conducted and can be found by clicking here.</p> -->
     <p>Click <a href="http://www.rig.is">here</a> to go to the official Reykjavik Internationl Games homepage</p>
-	</section>
+  </section>
 </body>
