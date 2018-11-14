@@ -17,7 +17,7 @@ layout: base
   <section class="long_text">
     <p>
       Badminton hefur verið hluti af Reykjavik International Games frá upphafi. Það hefur verið TBR sem hefur séð um framkvæmd mótsins. Í upphafi voru það aðallega Danir sem mættu til leiks auk Íslendinganna. Það hefur þó breyst örlítið og eru það aðallega Færeyingar sem sækja mótið núna.
-      Mótið er unglingamót og er keppt í öllum aldursflokkum; U13(fædd 2006 og síðar), U15(fædd 2004 og 2005), U17(fædd 2002 og 2003) og U19(fædd 2000 og 2001). Í upphafi voru aðeins erlendir keppendur í U19 flokknum. Í ár er reiknað með erlendum keppendum í öllum aldursflokkum.
+      Mótið er unglingamót og er keppt í öllum aldursflokkum; U13(fædd 2006 og síðar), U15(fædd 2004 og 2005), U17(fædd 2002 og 2003) og U19(fædd 2000 og 2001). Í upphafi voru aðeins erlendir keppendur í U19 flokknum en í ár er reiknað með erlendum keppendum í öllum aldursflokkum.
     </p>
     <p>
       Öllum þátttakendum er heimilt að skrá sig í allar greinar, þe. einliðaleik, tvíliðaleik og tvenndarleik.
