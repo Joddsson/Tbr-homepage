@@ -6,24 +6,25 @@ layout: base
 ---
 
 <head>
-	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<h1 class="board_text" align="center">Unglingráð TBR</h1>
-	<section class="long_text">
-		<p>Unglingaráð TBR sér um framkvæmd unglingamóta sem haldin eru á vegum félagsins. Þessi mót eru:</p>
-		<ul>
-			<li>Vetrarmót</li>
-			<li>Ljúflingamót</li>
-			<li>Jólamót</li>
-			<li>Unglingameistarmót TBR</li>
-			<li>Sumarmót</li>
-		</ul>
-		<h3 class="board_text" id="dividerLine"><Span>Unglingaráð TBR veturinn 2017 - 2018</Span></h3>
-		<p><i class="fa fa-user"></i> Þórunn Eylands <i class="fa fa-arrow-right"></i> Formaður.</p>
-		<p>Andri Broddason.</p>
-		<p>Einar Sverrisson.</p>
-		<p>Bjarni Sverrisson.</p>
-		<p>Elís Þór Dansson.</p>
-	</section>
+  <h1 class="board_text" align="center">Unglingráð TBR</h1>
+  <section class="long_text">
+    <p>Unglingaráð TBR sér um framkvæmd unglingamóta sem haldin eru á vegum félagsins. Þessi mót eru:</p>
+    <ul>
+      <li>Vetrarmót</li>
+      <li>Ljúflingamót</li>
+      <li>Jólamót</li>
+      <li>Unglingameistarmót TBR</li>
+      <li>Sumarmót</li>
+    </ul>
+    <h3 class="board_text" id="dividerLine"><Span>Unglingaráð TBR veturinn 2018 - 2019</Span></h3>
+    <p><i class="fa fa-user"></i> Þórunn Eylands <i class="fa fa-arrow-right"></i> Formaður</p>
+    <p>Björk Orradóttir</p>
+    <p>Eva Margit Wang Atladóttir</p>
+    <p>Eysteinn Högnason</p>
+    <p>Karolina Prus</p>
+    <p>Tómas Sigurðsson</p>
+  </section>
 </body>
