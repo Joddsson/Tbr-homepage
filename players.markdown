@@ -21,7 +21,7 @@ layout: base
     <p>Elís Þór Dansson</p>
     <p>Ívar Oddsson</p>
     <p><i class="fa fa-trophy"></i> Jónas Baldursson <i class="fa fa-arrow-right"></i> Íslandsmeistari í tvíliðaleik karla 2018</p>
-    <p><i class="fa fa-trophy"></i> Kári Gunnarsson <i class="fa fa-arrow-right"></i> Íslandsmeistari í einliðaleik 2018</p>
+    <p><i class="fa fa-trophy"></i> Kári Gunnarsson <i class="fa fa-arrow-right"></i> Íslandsmeistari í einliðaleik karla 2018</p>
     <p>Kristján Huldar Aðalsteinsson</p>
     <p><i class="fa fa-trophy"></i> Kristófer Darri Finnsson <i class="fa fa-arrow-right"></i> Íslandsmeistari í tvenndaleik 2018</p>
     <p>Róbert Þór Henn</p>
