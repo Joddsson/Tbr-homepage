@@ -241,9 +241,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>12:10</b></td>
                 </tr>
-                <!--8<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>16:20</b> <i class="fa fa-long-arrow-right"></i> 20% afsláttur af föstum tímum.</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>17:10</b></td>
                 </tr>
@@ -304,9 +304,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
@@ -371,9 +371,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:40</b></td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:30</b></td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>21:20</b></td>
                 </tr>
@@ -421,9 +421,9 @@ layout: base
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
