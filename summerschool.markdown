@@ -38,7 +38,7 @@ layout: base
 
     <div class="indented">
       <h3 class="board_text">Námskeið</h3>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 11. júní–22. júní     ** 8 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 11. júní–21. júní     ** 8 daga námskeið</p>
       <p><i class="fa fa-arrow-right"></i> Námskeið 2: 24. júní–5. júlí      ** 10 daga námskeið</p>
       <p><i class="fa fa-arrow-right"></i> Námskeið 3: 6. ágúst–16. ágúst    ** 9 daga námskeið</p>
     </div>
