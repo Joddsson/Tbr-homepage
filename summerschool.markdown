@@ -9,7 +9,7 @@ layout: base
   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <h1 class="board_text" align="center">Sumarskóli TBR 2018</h1>
+  <h1 class="board_text" align="center">Sumarskóli TBR 2019</h1>
   <section class="long_text">
     <p>
       Sumarskóli TBR hefur verið starfræktur í yfir 20 ár. Þetta er alhliða íþróttaskóli og eru fjölmargar íþróttagreinar á dagskrá. Badmintoníþróttin skipar þó veglegan sess, enda er hún aðalíþrótt TBR. Við starfrækjum íþróttaskóla fyrir 6–13 ára börn í sumar. Skipt er í hópa eftir aldri.
@@ -38,20 +38,21 @@ layout: base
 
     <div class="indented">
       <h3 class="board_text">Námskeið</h3>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 11. júní–22. júní     ** 10 daga námskeið</p>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 2: 25. júní–6. júlí      ** 10 daga námskeið</p>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 3: 7. ágúst–17. ágúst    ** 9 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 11. júní–22. júní     ** 8 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 2: 24. júní–5. júlí      ** 10 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 3: 6. ágúst–16. ágúst    ** 9 daga námskeið</p>
     </div>
 
     <div class="indented">
       <h3 class="board_text">Verð</h3>
-      <p><i class="fa fa-arrow-right"></i> Verð er 12.600 kr. fyrir 9 daga námskeið kl. 9–13 og 22.700 kr. fyrir námskeið kl. 9–16.</p>
-      <p><i class="fa fa-arrow-right"></i> Verð er 14.000 kr. fyrir 10 daga námskeið kl. 9–13 og 25.200 kr. fyrir námskeið kl. 9–16.</p>
+      <p><i class="fa fa-arrow-right"></i> Verð er 11.800 kr. fyrir 8 daga námskeið kl. 9–13 og 21.200 kr. fyrir námskeið kl. 9–16.</p>
+      <p><i class="fa fa-arrow-right"></i> Verð er 13.300 kr. fyrir 9 daga námskeið kl. 9–13 og 23.900 kr. fyrir námskeið kl. 9–16.</p>
+      <p><i class="fa fa-arrow-right"></i> Verð er 14.700 kr. fyrir 10 daga námskeið kl. 9–13 og 26.500 kr. fyrir námskeið kl. 9–16.</p>
     </div>
 
     <div class="indented">
       <h3 class="board_text">Skráning</h3>
-      <p>Skráning hefst 9. maí í síma 581 2266</p>
+      <p>Skráning hefst 10. maí í síma 581-2266</p>
     </div>
 
     <div class="indented">
