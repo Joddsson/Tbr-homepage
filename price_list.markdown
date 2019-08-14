@@ -65,7 +65,7 @@ layout: base
                         <td>3.000kr.</td>
                     </tr>
                     <tr>
-                        <td>Kvennatímar 10 tíma kort</td>
+                        <td>Kvennatími 10 tíma kort</td>
                         <td>17.500kr.</td>
                     </tr>
                     <tr>
@@ -73,7 +73,7 @@ layout: base
                         <td>3.000kr.</td>
                     </tr>
                     <tr>
-                        <td>Trimmtími - 10 tíma kort með 2 boltum</td>
+                        <td>Trimmtími 10 tíma kort með 2 boltum</td>
                         <td>18.750kr.</td>
                     </tr>
                     <tr>
