@@ -9,7 +9,7 @@ layout: base
   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <h1 class="board_text" align="center">Reykjavík International Games 2019</h1>
+  <h1 class="board_text" align="center">Reykjavík International Games 2020</h1>
   <a href="/RIG">
     <img src="/images/isl_flag.jpg" class="language-flag"><img>
   </a>
@@ -31,9 +31,9 @@ layout: base
       TBR offers a world class facilities close to the RIG centre arena. The hall is a badminton only hall with 12 courts and wooden floors. The address is: Gnodarvogur 1 104 Reykjavik.
     </p>
     <p>
-      <strong>Programme for the RIG 2019 badminton event</strong><br>
-      Saturday 2nd of February: Start of badminton event at 09:00 am.<br>
-      Sunday 3rd of February: Start of semi-finals at 09:00 am followed by finals.
+      <strong>Programme for the RIG 2020 badminton event</strong><br>
+      Saturday 1st of February: Start of badminton event at 09:00 am.<br>
+      Sunday 2nd of February: Start of semi-finals at 09:00 am followed by finals.
     </p>
     <!-- <p>
       <strong>Live broadcast from the finals</strong><br>
@@ -45,7 +45,7 @@ layout: base
     </p>
     <p>
       <strong>Entries</strong><br>
-      The closing date is January 28th and all entries are to be emailed to tbr@tbr.is
+      The closing date is January 25th and all entries are to be emailed to tbr@tbr.is
     </p>
     <!-- <p>
       <strong>Draw</strong><br>
