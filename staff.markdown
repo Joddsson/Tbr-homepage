@@ -23,12 +23,12 @@ layout: base
   </div>
   <div id="container">
     <figure id="row1">
-      <img src="/images/joi_kjartans.jpg" alt="Árni-barna og unglingaþjálfari">
+      <img src="/images/arni_thor.jpg" alt="Árni-barna og unglingaþjálfari">
       <figcaption class="board_text">Árni Þór Hallgrímsson</figcaption>
       <p>Barna og unglingaþjálfari</p>
     </figure>
     <figure id="row2">
-      <img src="/images/arni_thor.jpg" alt="Huang-meistaraflokks og unglingaþjálfari">
+      <img src="/images/huang.jpg" alt="Huang-meistaraflokks og unglingaþjálfari">
       <figcaption class="board_text">Jónas Huang</figcaption>
       <p>Meistaraflokks og <br> unglingaþjálfari</p>
     </figure>
