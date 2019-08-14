@@ -21,7 +21,7 @@ layout: base
                 </thead>
  <tbody>
                     <tr>
-                        <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2018-2019</td>
+                        <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2019-2020</td>
                         <td>140.000kr.</td>
                     </tr>
 <tr>
