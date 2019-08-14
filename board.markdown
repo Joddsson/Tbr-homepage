@@ -41,15 +41,15 @@ layout: base
 </figure>
 <figure id="row2">
 <img src="/images/ivar.jpg" alt="Ívar-varamaður í stjórn">
-<figcaption class="board_text">Ívar Oddsson</figcaption>
-<p>Varamaður í stjórn</p>
+<figcaption class="board_text">XX</figcaption>
+<p>XX</p>
 </figure>
 </div>
 <div id="container">
 <figure id="row3">
 <img src="/images/jonas.jpg" alt="Jónas-fulltrúi ungra í stjórn" width="200px" height="200px" />
-<figcaption class="board_text">Jónas Baldursson</figcaption>
-<p>Fulltrúi ungra í stjórn</p>
+<figcaption class="board_text">XX</figcaption>
+<p>XX</p>
 </figure>
 </div>
 </body>
