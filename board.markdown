@@ -35,7 +35,7 @@ layout: base
 </div>
 <div id="container">
 <figure id="row1">
-<img src="/images/jonas.jpg" alt="Jónas-meðstjórnandi">
+<img src="/images/jonas.jpg" alt="Jónas-meðstjórnandi" width="200px" height="200px" />
 <figcaption class="board_text">Jónas Baldursson</figcaption>
 <p>Meðstjórnandi</p>
 </figure>
