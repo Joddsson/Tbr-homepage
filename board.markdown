@@ -28,15 +28,15 @@ layout: base
 <p>Gjaldkeri</p>
 </figure>
 <figure id="row2">
-<img src="/images/halldora.png" alt="Halldóra-ritari">
-<figcaption class="board_text">Halldóra Elín Jóhannsdóttir</figcaption>
+<img src="/images/thorbjorg.png" alt="Þorbjörg-ritari">
+<figcaption class="board_text">Þorbjörg Kristinsdóttir</figcaption>
 <p>Ritari</p>
 </figure>
 </div>
 <div id="container">
 <figure id="row1">
-<img src="/images/thorbjorg.png" alt="Þorbjörg-meðstjórnandi">
-<figcaption class="board_text">Þorbjörg Kristinsdóttir</figcaption>
+<img src="/images/jonas.jpg" alt="Jónas-meðstjórnandi">
+<figcaption class="board_text">Jónas Baldursson</figcaption>
 <p>Meðstjórnandi</p>
 </figure>
 <figure id="row2">
