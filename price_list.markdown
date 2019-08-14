@@ -6,11 +6,11 @@ layout: base
 ---
 
 <head>
-	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<h1 class="board_text" align="center">Verðskrá 2018 - 2019</h1>
-	<section class="long_text">
+  <h1 class="board_text" align="center">Verðskrá 2019 - 2020</h1>
+  <section class="long_text">
         <div class="table-responsive">
             <table class="table table-hover">
                 <thead>
@@ -22,7 +22,7 @@ layout: base
  <tbody>
                     <tr>
                         <td>Fastur tími einu sinni í vikur 1. sept - 31. maí 2018-2019</td>
-                        <td>136.000kr.</td>
+                        <td>140.000kr.</td>
                     </tr>
 <tr>
                         <td>
@@ -32,7 +32,7 @@ layout: base
                                 <li>virka daga kl. 13:00 - 16:50</li>
                             </ul>
                         </td>
-                        <td>108.800kr.</td>
+                        <td>112.000kr.</td>
                     </tr>
                     <tr>
                         <td>
@@ -44,21 +44,21 @@ layout: base
                                 <li>sunnudaga </li>
                             </ul>
                         </td>
-                        <td>68.000kr.</td>
+                        <td>70.000kr.</td>
                     </tr>
 <tr>
                         <td>Stakur tími</td>
-                        <td>4400kr.</td>
+                        <td>4.500kr.</td>
                     </tr>
                     <tr>
                         <td>10 tíma kort</td>
-                        <td>34.000kr.</td>
+                        <td>35.000kr.</td>
                     </tr>
 <tr>
                         <td>
                             10 tíma kort fyrir framhaldsskólanema. Gildir eingöngu fyrir námsmenn og fljölskyldur á þeirra framfæri
                         </td>
-                        <td>17.000kr.</td>
+                        <td>17.500kr.</td>
                     </tr>
 <tr>
                         <td>Árgjald <i class="fa fa-star small"></i></td>
@@ -66,35 +66,35 @@ layout: base
                     </tr>
                     <tr>
                         <td>Kvennatímar 10 tíma kort</td>
-                        <td>17.000kr.</td>
+                        <td>17.500kr.</td>
                     </tr>
                     <tr>
-                        <td>Trimmtími</td>
-                        <td>2.200</td>
+                        <td>Stakur trimmtími með 2 boltum</td>
+                        <td>3.000kr.</td>
                     </tr>
-										<tr>
-                        <td>Trimmtími - 10 tíma kort</td>
-                        <td>11.000kr.</td>
+                    <tr>
+                        <td>Trimmtími - 10 tíma kort með 2 boltum</td>
+                        <td>18.750kr.</td>
                     </tr>
                     <tr>
                         <td>Byrjendanámskeið (6 vikna)</td>
-                        <td>12.800kr.</td>
+                        <td>13.200kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar haustönn 1 sinni í viku</td>
-                        <td>17.200kr.</td>
+                        <td>17.800kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar haustönn 2 sinni í viku</td>
-                        <td>34.400kr.</td>
+                        <td>35.600kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar vorönn 1 sinni í viku</td>
-                        <td>17.200kr.</td>
+                        <td>17.800kr.</td>
                     </tr>
                     <tr>
                         <td>Barna- og unglingatímar vorönn 2 sinni í viku</td>
-                        <td>34.400kr.</td>
+                        <td>35.600kr.</td>
                     </tr>
                 </tbody>
             </table>
