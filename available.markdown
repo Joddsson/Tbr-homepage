@@ -604,9 +604,9 @@ layout: base
                 </tr>
               </thead>
               <tbody>
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>16:50</b></td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>17:40</b></td>
                 </tr>
@@ -632,9 +632,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
