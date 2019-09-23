@@ -141,9 +141,9 @@ layout: base
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>18:50</b></td>
                         </tr>-->
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:40</b></td>
-                </tr>
+                </tr>-->
                 <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:30</b></td>
                 </tr>-->
@@ -194,9 +194,9 @@ layout: base
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
-                <tr>
+                <!--<tr>
                   <td>&nbsp;</td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
@@ -279,9 +279,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>12:00</b></td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>16:50</b></td>
-                </tr>
+                </tr>-->
                 <!--<tr>
                             <td><i class="fa fa-clock-o"></i> <b>17:40</b></td>
                         </tr>-->
@@ -304,9 +304,9 @@ layout: base
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
@@ -406,9 +406,9 @@ layout: base
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>19:20</b></td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td><i class="fa fa-clock-o"></i> <b>20:10</b></td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td><i class="fa fa-clock-o"></i> <b>21:00</b></td>
                 </tr>
@@ -421,9 +421,9 @@ layout: base
                 <!--<tr>
                   <td>&nbsp;</td>
                 </tr>-->
-                <!--<tr>
+                <tr>
                   <td>&nbsp;</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td>&nbsp;</td>
                 </tr>
