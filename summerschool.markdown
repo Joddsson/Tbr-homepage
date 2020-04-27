@@ -9,10 +9,10 @@ layout: base
   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <h1 class="board_text" align="center">Sumarskóli TBR 2019</h1>
+  <h1 class="board_text" align="center">Sumarskóli TBR 2020</h1>
   <section class="long_text">
     <p>
-      Sumarskóli TBR hefur verið starfræktur í yfir 20 ár. Þetta er alhliða íþróttaskóli og eru fjölmargar íþróttagreinar á dagskrá. Badmintoníþróttin skipar þó veglegan sess, enda er hún aðalíþrótt TBR. Við starfrækjum íþróttaskóla fyrir 6–13 ára börn í sumar. Skipt er í hópa eftir aldri.
+      Sumarskóli TBR hefur verið starfræktur í um 35 ár. Þetta er alhliða íþróttaskóli og eru fjölmargar íþróttagreinar á dagskrá. Badmintoníþróttin skipar þó veglegan sess, enda er hún aðalíþrótt TBR. Við starfrækjum íþróttaskóla fyrir 6–13 ára börn í sumar. Skipt er í hópa eftir aldri.
     </p>
 
     <p>
@@ -38,16 +38,15 @@ layout: base
 
     <div class="indented">
       <h3 class="board_text">Námskeið</h3>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 11. júní–21. júní     ** 8 daga námskeið</p>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 2: 24. júní–5. júlí      ** 10 daga námskeið</p>
-      <p><i class="fa fa-arrow-right"></i> Námskeið 3: 6. ágúst–16. ágúst    ** 9 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 1: 8. júní–19. júní     ** 9 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 2: 22. júní–3. júlí      ** 10 daga námskeið</p>
+      <p><i class="fa fa-arrow-right"></i> Námskeið 3: 4. ágúst–14. ágúst    ** 9 daga námskeið</p>
     </div>
 
     <div class="indented">
       <h3 class="board_text">Verð</h3>
-      <p><i class="fa fa-arrow-right"></i> Verð er 11.800 kr. fyrir 8 daga námskeið kl. 9–13 og 21.200 kr. fyrir námskeið kl. 9–16.</p>
-      <p><i class="fa fa-arrow-right"></i> Verð er 13.300 kr. fyrir 9 daga námskeið kl. 9–13 og 23.900 kr. fyrir námskeið kl. 9–16.</p>
-      <p><i class="fa fa-arrow-right"></i> Verð er 14.700 kr. fyrir 10 daga námskeið kl. 9–13 og 26.500 kr. fyrir námskeið kl. 9–16.</p>
+      <p><i class="fa fa-arrow-right"></i> Verð er 13.700 kr. fyrir 9 daga námskeið kl. 9–13 og 24.600 kr. fyrir námskeið kl. 9–16.</p>
+      <p><i class="fa fa-arrow-right"></i> Verð er 15.200 kr. fyrir 10 daga námskeið kl. 9–13 og 27.300 kr. fyrir námskeið kl. 9–16.</p>
     </div>
 
     <div class="indented">
